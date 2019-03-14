@@ -1,0 +1,916 @@
+"team_name","game_date","season","period","minutes_remaining","seconds_remaining","shot_made_flag","action_type","shot_type","shot_distance","opponent","x","y","minute"
+"Golden State Warriors","12/23/16",2016,3,9,37,"shot_yes","Alley Oop Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,27
+"Golden State Warriors","11/18/16",2016,3,8,3,"shot_yes","Alley Oop Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,28
+"Golden State Warriors","12/5/16",2016,3,9,18,"shot_yes","Alley Oop Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,27
+"Golden State Warriors","11/4/16",2016,3,5,52,"shot_yes","Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,31
+"Golden State Warriors","10/30/16",2016,4,1,19,"shot_yes","Alley Oop Layup shot","2PT Field Goal",0,"Phoenix Suns",-1,3,47
+"Golden State Warriors","2/8/17",2016,3,10,1,"shot_no","Alley Oop Layup shot","2PT Field Goal",1,"Chicago Bulls",2,18,26
+"Golden State Warriors","2/23/17",2016,3,11,26,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,25
+"Golden State Warriors","11/13/16",2016,3,5,16,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,31
+"Golden State Warriors","11/19/16",2016,1,10,25,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,2
+"Golden State Warriors","1/20/17",2016,3,6,38,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,30
+"Golden State Warriors","11/13/16",2016,1,11,46,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,1
+"Golden State Warriors","1/2/17",2016,2,3,0,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,21
+"Golden State Warriors","11/10/16",2016,1,9,27,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,3
+"Golden State Warriors","11/16/16",2016,1,9,8,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,3
+"Golden State Warriors","11/3/16",2016,3,11,17,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,25
+"Golden State Warriors","1/20/17",2016,3,9,3,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,27
+"Golden State Warriors","2/11/17",2016,4,5,46,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,43
+"Golden State Warriors","1/8/17",2016,4,3,39,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,45
+"Golden State Warriors","1/18/17",2016,2,4,16,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,20
+"Golden State Warriors","2/13/17",2016,1,8,12,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,4
+"Golden State Warriors","2/4/17",2016,2,3,19,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,21
+"Golden State Warriors","12/28/16",2016,2,9,57,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,15
+"Golden State Warriors","11/4/16",2016,3,8,41,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,28
+"Golden State Warriors","12/13/16",2016,3,5,59,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,31
+"Golden State Warriors","12/7/16",2016,1,8,55,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,4
+"Golden State Warriors","1/4/17",2016,3,10,0,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,26
+"Golden State Warriors","2/13/17",2016,2,0,27,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,24
+"Golden State Warriors","11/28/16",2016,4,1,26,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,47
+"Golden State Warriors","2/10/17",2016,4,5,56,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,43
+"Golden State Warriors","1/4/17",2016,3,10,33,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,26
+"Golden State Warriors","11/10/16",2016,3,7,55,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,29
+"Golden State Warriors","11/25/16",2016,1,6,37,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,6
+"Golden State Warriors","10/25/16",2016,2,2,3,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,22
+"Golden State Warriors","12/5/16",2016,1,6,8,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,6
+"Golden State Warriors","11/23/16",2016,1,6,31,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,6
+"Golden State Warriors","2/15/17",2016,3,6,28,"shot_yes","Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Sacramento Kings",0,16,30
+"Golden State Warriors","11/1/16",2016,1,9,3,"shot_yes","Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",14,7,3
+"Golden State Warriors","2/13/17",2016,3,11,10,"shot_yes","Cutting Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",14,16,25
+"Golden State Warriors","11/23/16",2016,2,9,23,"shot_yes","Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-2,11,15
+"Golden State Warriors","2/15/17",2016,2,2,34,"shot_yes","Cutting Finger Roll Layup Shot","2PT Field Goal",3,"Sacramento Kings",22,26,22
+"Golden State Warriors","1/25/17",2016,4,7,5,"shot_yes","Cutting Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-7,7,41
+"Golden State Warriors","1/4/17",2016,2,1,58,"shot_yes","Cutting Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",2,8,23
+"Golden State Warriors","1/25/17",2016,1,8,44,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Charlotte Hornets",14,-1,4
+"Golden State Warriors","12/5/16",2016,2,2,54,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Indiana Pacers",6,16,22
+"Golden State Warriors","12/20/16",2016,4,9,34,"shot_yes","Cutting Layup Shot","2PT Field Goal",2,"Utah Jazz",-1,21,39
+"Golden State Warriors","12/30/16",2016,4,7,50,"shot_no","Cutting Layup Shot","2PT Field Goal",1,"Dallas Mavericks",1,18,41
+"Golden State Warriors","1/8/17",2016,3,4,29,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Sacramento Kings",-14,7,32
+"Golden State Warriors","11/23/16",2016,2,10,59,"shot_yes","Cutting Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,7,14
+"Golden State Warriors","1/20/17",2016,3,10,20,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Houston Rockets",14,11,26
+"Golden State Warriors","11/18/16",2016,4,11,10,"shot_yes","Cutting Layup Shot","2PT Field Goal",2,"Boston Celtics",22,8,37
+"Golden State Warriors","2/8/17",2016,1,8,41,"shot_yes","Driving Bank shot","2PT Field Goal",6,"Chicago Bulls",42,43,4
+"Golden State Warriors","1/20/17",2016,3,1,8,"shot_yes","Driving Bank shot","2PT Field Goal",7,"Houston Rockets",58,46,35
+"Golden State Warriors","11/13/16",2016,4,1,13,"shot_yes","Driving Bank shot","2PT Field Goal",4,"Phoenix Suns",-9,41,47
+"Golden State Warriors","1/6/17",2016,2,6,57,"shot_yes","Driving Bank shot","2PT Field Goal",6,"Memphis Grizzlies",-27,56,18
+"Golden State Warriors","12/11/16",2016,1,8,40,"shot_no","Driving Bank shot","2PT Field Goal",4,"Minnesota Timberwolves",-32,28,4
+"Golden State Warriors","12/25/16",2016,1,3,38,"shot_yes","Driving Bank shot","2PT Field Goal",9,"Cleveland Cavaliers",97,13,9
+"Golden State Warriors","2/27/17",2016,4,1,56,"shot_yes","Driving Bank shot","2PT Field Goal",3,"Philadelphia 76ers",27,26,47
+"Golden State Warriors","12/28/16",2016,3,5,51,"shot_yes","Driving Bank shot","2PT Field Goal",7,"Toronto Raptors",-47,56,31
+"Golden State Warriors","2/27/17",2016,1,4,9,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,8
+"Golden State Warriors","2/13/17",2016,2,5,23,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,19
+"Golden State Warriors","1/2/17",2016,3,6,52,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,30
+"Golden State Warriors","12/15/16",2016,3,3,21,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,33
+"Golden State Warriors","11/23/16",2016,4,9,25,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,39
+"Golden State Warriors","2/4/17",2016,4,7,41,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,41
+"Golden State Warriors","10/28/16",2016,1,0,37,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,12
+"Golden State Warriors","12/25/16",2016,3,0,28,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,36
+"Golden State Warriors","12/25/16",2016,1,4,52,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,8
+"Golden State Warriors","11/7/16",2016,3,2,8,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,34
+"Golden State Warriors","2/2/17",2016,1,10,8,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,2
+"Golden State Warriors","11/7/16",2016,4,0,23,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,48
+"Golden State Warriors","1/2/17",2016,1,6,35,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,6
+"Golden State Warriors","12/13/16",2016,4,8,41,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,40
+"Golden State Warriors","12/8/16",2016,4,6,4,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,42
+"Golden State Warriors","1/28/17",2016,2,0,42,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,24
+"Golden State Warriors","2/27/17",2016,2,3,51,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,21
+"Golden State Warriors","10/25/16",2016,2,2,47,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,22
+"Golden State Warriors","1/16/17",2016,2,3,10,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,21
+"Golden State Warriors","11/4/16",2016,2,8,6,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,16
+"Golden State Warriors","12/17/16",2016,1,7,6,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,5
+"Golden State Warriors","1/25/17",2016,1,11,5,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",-6,2,1
+"Golden State Warriors","11/3/16",2016,3,0,1,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,7,36
+"Golden State Warriors","11/3/16",2016,2,2,29,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,22
+"Golden State Warriors","1/6/17",2016,1,11,44,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,1
+"Golden State Warriors","12/17/16",2016,2,7,46,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,17
+"Golden State Warriors","2/8/17",2016,1,2,43,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",1,"Chicago Bulls",6,11,10
+"Golden State Warriors","11/7/16",2016,2,3,6,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",9,7,21
+"Golden State Warriors","11/9/16",2016,4,5,35,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",2,"Dallas Mavericks",2,21,43
+"Golden State Warriors","11/21/16",2016,1,7,42,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",1,"Indiana Pacers",-11,7,5
+"Golden State Warriors","1/6/17",2016,2,8,4,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",14,11,16
+"Golden State Warriors","12/1/16",2016,1,0,18,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",1,"Houston Rockets",10,11,12
+"Golden State Warriors","1/29/17",2016,3,4,22,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",17,11,32
+"Golden State Warriors","12/1/16",2016,2,5,15,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",0,"Houston Rockets",0,8,19
+"Golden State Warriors","11/26/16",2016,2,7,14,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",17,11,17
+"Golden State Warriors","12/22/16",2016,4,9,32,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-22,-6,39
+"Golden State Warriors","12/15/16",2016,3,9,20,"shot_no","Driving Finger Roll Layup Shot","2PT Field Goal",1,"New York Knicks",6,18,27
+"Golden State Warriors","11/23/16",2016,2,1,6,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",9,26,23
+"Golden State Warriors","12/10/16",2016,3,8,3,"shot_yes","Driving Floating Bank Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",-61,21,28
+"Golden State Warriors","1/20/17",2016,1,4,1,"shot_yes","Driving Floating Bank Jump Shot","2PT Field Goal",6,"Houston Rockets",46,46,8
+"Golden State Warriors","11/16/16",2016,4,0,40,"shot_no","Driving Floating Bank Jump Shot","3PT Field Goal",25,"Toronto Raptors",6,257,48
+"Golden State Warriors","10/25/16",2016,4,11,27,"shot_yes","Driving Floating Bank Jump Shot","2PT Field Goal",10,"San Antonio Spurs",33,95,37
+"Golden State Warriors","2/27/17",2016,1,7,47,"shot_yes","Driving Floating Bank Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-40,-5,5
+"Golden State Warriors","2/10/17",2016,1,9,37,"shot_no","Driving Floating Bank Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",99,7,3
+"Golden State Warriors","10/25/16",2016,3,11,18,"shot_no","Driving Floating Jump Shot","2PT Field Goal",7,"San Antonio Spurs",-34,65,25
+"Golden State Warriors","11/28/16",2016,4,10,2,"shot_no","Driving Floating Jump Shot","2PT Field Goal",9,"Atlanta Hawks",9,90,38
+"Golden State Warriors","12/25/16",2016,4,7,57,"shot_no","Driving Floating Jump Shot","2PT Field Goal",11,"Cleveland Cavaliers",-114,7,41
+"Golden State Warriors","2/11/17",2016,1,3,31,"shot_no","Driving Floating Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",-6,36,9
+"Golden State Warriors","2/11/17",2016,1,5,15,"shot_no","Driving Floating Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",-14,56,7
+"Golden State Warriors","2/11/17",2016,3,10,44,"shot_no","Driving Floating Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",-7,95,26
+"Golden State Warriors","12/10/16",2016,3,10,22,"shot_no","Driving Floating Jump Shot","2PT Field Goal",8,"Memphis Grizzlies",63,57,26
+"Golden State Warriors","11/1/16",2016,2,10,21,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-25,90,14
+"Golden State Warriors","2/27/17",2016,1,2,36,"shot_no","Driving Floating Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-1,41,10
+"Golden State Warriors","1/29/17",2016,4,1,26,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",-19,124,47
+"Golden State Warriors","11/23/16",2016,3,8,15,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",2,41,28
+"Golden State Warriors","12/25/16",2016,4,10,52,"shot_no","Driving Floating Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",-91,23,38
+"Golden State Warriors","1/29/17",2016,2,3,20,"shot_no","Driving Floating Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",99,26,21
+"Golden State Warriors","10/25/16",2016,4,8,16,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",6,"San Antonio Spurs",0,61,40
+"Golden State Warriors","12/20/16",2016,3,6,35,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",9,"Utah Jazz",-29,95,30
+"Golden State Warriors","11/25/16",2016,3,6,33,"shot_yes","Driving Hook Shot","2PT Field Goal",8,"Los Angeles Lakers",76,47,30
+"Golden State Warriors","1/6/17",2016,2,9,32,"shot_no","Driving Hook Shot","2PT Field Goal",7,"Memphis Grizzlies",43,57,15
+"Golden State Warriors","2/2/17",2016,3,11,37,"shot_no","Driving Hook Shot","2PT Field Goal",2,"Los Angeles Clippers",20,11,25
+"Golden State Warriors","11/16/16",2016,4,8,0,"shot_yes","Driving Hook Shot","2PT Field Goal",5,"Toronto Raptors",50,26,40
+"Golden State Warriors","1/16/17",2016,2,5,26,"shot_yes","Driving Hook Shot","2PT Field Goal",2,"Cleveland Cavaliers",-1,26,19
+"Golden State Warriors","2/2/17",2016,3,5,26,"shot_no","Driving Hook Shot","2PT Field Goal",3,"Los Angeles Clippers",24,23,31
+"Golden State Warriors","10/30/16",2016,1,11,29,"shot_no","Driving Layup Shot","2PT Field Goal",3,"Phoenix Suns",0,31,1
+"Golden State Warriors","2/23/17",2016,3,8,48,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",6,13,28
+"Golden State Warriors","2/13/17",2016,3,5,13,"shot_no","Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-11,11,31
+"Golden State Warriors","1/18/17",2016,1,11,15,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-12,2,1
+"Golden State Warriors","12/1/16",2016,1,7,38,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",6,11,5
+"Golden State Warriors","10/30/16",2016,1,9,35,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",-20,16,3
+"Golden State Warriors","2/4/17",2016,3,3,34,"shot_no","Driving Layup Shot","2PT Field Goal",3,"Sacramento Kings",22,31,33
+"Golden State Warriors","12/7/16",2016,2,9,13,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",14,21,15
+"Golden State Warriors","1/25/17",2016,3,8,22,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-14,2,28
+"Golden State Warriors","11/25/16",2016,4,3,31,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-11,-11,45
+"Golden State Warriors","10/28/16",2016,2,0,48,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",25,16,24
+"Golden State Warriors","2/11/17",2016,3,8,33,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",20,-6,28
+"Golden State Warriors","10/28/16",2016,1,1,37,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",14,18,11
+"Golden State Warriors","11/7/16",2016,3,8,40,"shot_no","Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-9,21,28
+"Golden State Warriors","1/2/17",2016,3,8,8,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",10,13,28
+"Golden State Warriors","12/1/16",2016,2,9,0,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",2,11,15
+"Golden State Warriors","1/22/17",2016,3,11,22,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",27,-5,25
+"Golden State Warriors","11/4/16",2016,4,9,51,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",3,21,39
+"Golden State Warriors","1/22/17",2016,1,2,10,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",19,8,10
+"Golden State Warriors","12/23/16",2016,2,9,40,"shot_yes","Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-1,3,15
+"Golden State Warriors","2/15/17",2016,2,4,19,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",9,18,20
+"Golden State Warriors","1/8/17",2016,3,11,38,"shot_no","Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",15,10,25
+"Golden State Warriors","12/22/16",2016,2,11,7,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-22,-6,13
+"Golden State Warriors","1/4/17",2016,1,2,50,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",14,16,10
+"Golden State Warriors","11/16/16",2016,2,11,19,"shot_yes","Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",-16,26,13
+"Golden State Warriors","12/5/16",2016,2,7,25,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",0,13,17
+"Golden State Warriors","1/28/17",2016,2,4,14,"shot_yes","Driving Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-9,-1,20
+"Golden State Warriors","10/25/16",2016,4,5,41,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",8,15,43
+"Golden State Warriors","12/11/16",2016,4,7,18,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-6,-11,41
+"Golden State Warriors","1/4/17",2016,2,2,32,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",10,18,22
+"Golden State Warriors","2/8/17",2016,2,4,23,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",0,28,20
+"Golden State Warriors","12/11/16",2016,3,8,24,"shot_no","Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",6,-1,28
+"Golden State Warriors","11/9/16",2016,2,3,21,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",9,18,21
+"Golden State Warriors","12/23/16",2016,2,7,10,"shot_yes","Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",2,3,17
+"Golden State Warriors","2/27/17",2016,1,11,5,"shot_yes","Driving Reverse Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,1
+"Golden State Warriors","11/1/16",2016,1,6,24,"shot_yes","Driving Reverse Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,6
+"Golden State Warriors","12/17/16",2016,1,10,54,"shot_yes","Driving Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-9,11,2
+"Golden State Warriors","1/25/17",2016,1,3,25,"shot_yes","Driving Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,3,9
+"Golden State Warriors","1/20/17",2016,3,11,15,"shot_yes","Driving Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",12,7,25
+"Golden State Warriors","11/3/16",2016,1,1,33,"shot_yes","Driving Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,11,11
+"Golden State Warriors","12/15/16",2016,2,6,39,"shot_yes","Driving Reverse Layup Shot","2PT Field Goal",1,"New York Knicks",-16,2,18
+"Golden State Warriors","12/13/16",2016,3,4,29,"shot_yes","Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,32
+"Golden State Warriors","11/10/16",2016,4,6,51,"shot_yes","Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,42
+"Golden State Warriors","12/1/16",2016,1,11,13,"shot_yes","Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,1
+"Golden State Warriors","12/22/16",2016,3,11,45,"shot_yes","Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,25
+"Golden State Warriors","11/4/16",2016,3,11,25,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,25
+"Golden State Warriors","2/23/17",2016,2,5,44,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,19
+"Golden State Warriors","12/13/16",2016,1,0,47,"shot_yes","Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,12
+"Golden State Warriors","12/15/16",2016,2,1,40,"shot_yes","Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,23
+"Golden State Warriors","11/7/16",2016,4,8,29,"shot_yes","Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,40
+"Golden State Warriors","10/28/16",2016,2,2,53,"shot_no","Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,22
+"Golden State Warriors","10/28/16",2016,4,2,21,"shot_yes","Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,46
+"Golden State Warriors","2/2/17",2016,1,11,33,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,1
+"Golden State Warriors","11/23/16",2016,3,6,43,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,30
+"Golden State Warriors","12/20/16",2016,2,10,53,"shot_no","Fadeaway Jump Shot","2PT Field Goal",13,"Utah Jazz",53,120,14
+"Golden State Warriors","11/26/16",2016,1,10,30,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",-37,31,2
+"Golden State Warriors","1/22/17",2016,1,6,31,"shot_no","Fadeaway Jump Shot","2PT Field Goal",14,"Orlando Magic",148,16,6
+"Golden State Warriors","2/15/17",2016,1,5,32,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",18,"Sacramento Kings",-140,124,7
+"Golden State Warriors","11/28/16",2016,1,3,2,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",13,"Atlanta Hawks",137,8,9
+"Golden State Warriors","12/20/16",2016,3,9,15,"shot_no","Fadeaway Jump Shot","2PT Field Goal",14,"Utah Jazz",97,105,27
+"Golden State Warriors","1/2/17",2016,3,8,53,"shot_no","Fadeaway Jump Shot","2PT Field Goal",17,"Denver Nuggets",-174,26,28
+"Golden State Warriors","11/16/16",2016,4,10,25,"shot_no","Fadeaway Jump Shot","2PT Field Goal",17,"Toronto Raptors",-6,174,38
+"Golden State Warriors","1/2/17",2016,4,8,27,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",15,"Denver Nuggets",150,52,40
+"Golden State Warriors","1/18/17",2016,2,6,43,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-9,129,18
+"Golden State Warriors","11/19/16",2016,2,7,29,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-122,139,17
+"Golden State Warriors","12/7/16",2016,2,4,3,"shot_no","Fadeaway Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",107,146,20
+"Golden State Warriors","12/3/16",2016,1,10,51,"shot_yes","Fadeaway Jump Shot","3PT Field Goal",22,"Phoenix Suns",227,7,2
+"Golden State Warriors","11/3/16",2016,2,4,26,"shot_no","Fadeaway Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",37,105,20
+"Golden State Warriors","11/23/16",2016,4,11,45,"shot_no","Fadeaway Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",-42,110,37
+"Golden State Warriors","12/17/16",2016,2,0,54,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-117,149,24
+"Golden State Warriors","11/25/16",2016,1,1,57,"shot_no","Fadeaway Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-126,36,11
+"Golden State Warriors","11/9/16",2016,4,6,46,"shot_no","Fadeaway Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-127,21,42
+"Golden State Warriors","12/20/16",2016,2,11,45,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",16,"Utah Jazz",-102,124,13
+"Golden State Warriors","2/8/17",2016,2,5,7,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",8,"Chicago Bulls",-73,46,19
+"Golden State Warriors","11/18/16",2016,2,11,19,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",13,"Boston Celtics",56,124,13
+"Golden State Warriors","11/18/16",2016,2,1,6,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",10,"Boston Celtics",-68,75,23
+"Golden State Warriors","11/9/16",2016,2,10,12,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-161,11,14
+"Golden State Warriors","11/9/16",2016,3,8,17,"shot_no","Fadeaway Jump Shot","3PT Field Goal",26,"Dallas Mavericks",150,214,28
+"Golden State Warriors","11/26/16",2016,2,7,41,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",2,41,17
+"Golden State Warriors","11/9/16",2016,4,11,46,"shot_no","Fadeaway Jump Shot","2PT Field Goal",13,"Dallas Mavericks",135,33,37
+"Golden State Warriors","12/13/16",2016,1,8,6,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",135,41,4
+"Golden State Warriors","12/8/16",2016,1,10,16,"shot_no","Fadeaway Jump Shot","2PT Field Goal",13,"Utah Jazz",-9,136,2
+"Golden State Warriors","11/23/16",2016,4,10,22,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-102,164,38
+"Golden State Warriors","2/1/17",2016,2,4,7,"shot_no","Fadeaway Jump Shot","2PT Field Goal",13,"Charlotte Hornets",-4,131,20
+"Golden State Warriors","1/29/17",2016,4,4,57,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-22,56,44
+"Golden State Warriors","11/26/16",2016,4,6,6,"shot_no","Fadeaway Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",99,144,42
+"Golden State Warriors","1/4/17",2016,4,0,59,"shot_no","Fadeaway Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",-97,80,48
+"Golden State Warriors","2/10/17",2016,1,11,20,"shot_no","Fadeaway Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",-40,57,1
+"Golden State Warriors","1/2/17",2016,2,0,1,"shot_yes","Fadeaway Jump Shot","3PT Field Goal",27,"Denver Nuggets",9,273,24
+"Golden State Warriors","12/30/16",2016,1,2,3,"shot_no","Fadeaway Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-142,82,10
+"Golden State Warriors","1/2/17",2016,1,0,5,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",20,"Denver Nuggets",-30,198,12
+"Golden State Warriors","11/13/16",2016,1,9,37,"shot_no","Fadeaway Jump Shot","2PT Field Goal",11,"Phoenix Suns",114,2,3
+"Golden State Warriors","1/2/17",2016,3,10,10,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",10,"Denver Nuggets",-38,95,26
+"Golden State Warriors","12/8/16",2016,3,8,51,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",6,"Utah Jazz",-22,61,28
+"Golden State Warriors","11/13/16",2016,2,3,8,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",12,"Phoenix Suns",-66,106,21
+"Golden State Warriors","12/8/16",2016,4,10,31,"shot_no","Fadeaway Jump Shot","2PT Field Goal",6,"Utah Jazz",30,56,38
+"Golden State Warriors","1/25/17",2016,4,4,11,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",13,"Charlotte Hornets",-83,101,44
+"Golden State Warriors","2/10/17",2016,3,5,6,"shot_no","Fadeaway Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",-88,43,31
+"Golden State Warriors","1/2/17",2016,2,7,40,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",16,"Denver Nuggets",-107,129,17
+"Golden State Warriors","11/16/16",2016,2,7,26,"shot_no","Fadeaway Jump Shot","3PT Field Goal",23,"Toronto Raptors",235,-16,17
+"Golden State Warriors","10/28/16",2016,2,8,49,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",48,47,16
+"Golden State Warriors","11/13/16",2016,2,4,4,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",14,"Phoenix Suns",-145,36,20
+"Golden State Warriors","12/23/16",2016,1,8,5,"shot_no","Finger Roll Layup Shot","2PT Field Goal",0,"Detroit Pistons",4,7,4
+"Golden State Warriors","12/3/16",2016,2,9,25,"shot_yes","Finger Roll Layup Shot","2PT Field Goal",2,"Phoenix Suns",2,23,15
+"Golden State Warriors","11/26/16",2016,4,1,23,"shot_yes","Floating Jump shot","2PT Field Goal",9,"Minnesota Timberwolves",-35,85,47
+"Golden State Warriors","1/6/17",2016,3,7,8,"shot_yes","Floating Jump shot","2PT Field Goal",10,"Memphis Grizzlies",-47,90,29
+"Golden State Warriors","11/25/16",2016,2,9,3,"shot_yes","Floating Jump shot","2PT Field Goal",12,"Los Angeles Lakers",-11,124,15
+"Golden State Warriors","12/10/16",2016,1,0,12,"shot_no","Floating Jump shot","2PT Field Goal",5,"Memphis Grizzlies",28,46,12
+"Golden State Warriors","2/4/17",2016,4,5,15,"shot_no","Floating Jump shot","2PT Field Goal",15,"Sacramento Kings",9,156,43
+"Golden State Warriors","11/25/16",2016,3,8,2,"shot_no","Floating Jump shot","2PT Field Goal",12,"Los Angeles Lakers",36,121,28
+"Golden State Warriors","2/8/17",2016,1,11,44,"shot_no","Floating Jump shot","2PT Field Goal",13,"Chicago Bulls",64,124,1
+"Golden State Warriors","11/13/16",2016,1,7,34,"shot_no","Floating Jump shot","2PT Field Goal",14,"Phoenix Suns",-1,149,5
+"Golden State Warriors","11/18/16",2016,1,0,46,"shot_yes","Floating Jump shot","2PT Field Goal",12,"Boston Celtics",-97,85,12
+"Golden State Warriors","12/10/16",2016,2,6,41,"shot_yes","Floating Jump shot","2PT Field Goal",9,"Memphis Grizzlies",58,72,18
+"Golden State Warriors","12/11/16",2016,3,10,17,"shot_yes","Floating Jump shot","2PT Field Goal",3,"Minnesota Timberwolves",-16,26,26
+"Golden State Warriors","1/29/17",2016,4,7,18,"shot_no","Floating Jump shot","2PT Field Goal",4,"Portland Trail Blazers",-1,46,41
+"Golden State Warriors","11/28/16",2016,2,11,26,"shot_yes","Floating Jump shot","2PT Field Goal",12,"Atlanta Hawks",20,120,13
+"Golden State Warriors","2/13/17",2016,2,4,25,"shot_no","Floating Jump shot","2PT Field Goal",9,"Denver Nuggets",48,85,20
+"Golden State Warriors","12/7/16",2016,3,1,30,"shot_no","Floating Jump shot","2PT Field Goal",6,"Los Angeles Clippers",55,31,35
+"Golden State Warriors","12/23/16",2016,2,8,38,"shot_yes","Hook Shot","2PT Field Goal",5,"Detroit Pistons",14,56,16
+"Golden State Warriors","11/10/16",2016,2,1,53,"shot_yes","Hook Shot","2PT Field Goal",8,"Denver Nuggets",-40,80,23
+"Golden State Warriors","1/4/17",2016,2,8,57,"shot_yes","Hook Shot","2PT Field Goal",5,"Portland Trail Blazers",-45,26,16
+"Golden State Warriors","1/8/17",2016,2,0,46,"shot_yes","Jump Bank Shot","2PT Field Goal",4,"Sacramento Kings",43,13,24
+"Golden State Warriors","1/29/17",2016,3,6,26,"shot_yes","Jump Bank Shot","2PT Field Goal",2,"Portland Trail Blazers",-24,16,30
+"Golden State Warriors","10/30/16",2016,2,7,22,"shot_yes","Jump Bank Shot","2PT Field Goal",9,"Phoenix Suns",-88,31,17
+"Golden State Warriors","1/25/17",2016,4,3,3,"shot_yes","Jump Shot","2PT Field Goal",17,"Charlotte Hornets",28,170,45
+"Golden State Warriors","11/4/16",2016,1,8,51,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",36,256,4
+"Golden State Warriors","11/4/16",2016,3,2,10,"shot_yes","Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-155,207,34
+"Golden State Warriors","11/4/16",2016,2,2,7,"shot_yes","Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-57,246,22
+"Golden State Warriors","11/4/16",2016,1,2,36,"shot_no","Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",39,168,10
+"Golden State Warriors","11/4/16",2016,3,8,2,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-201,163,28
+"Golden State Warriors","11/26/16",2016,2,9,31,"shot_no","Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",38,156,15
+"Golden State Warriors","11/10/16",2016,4,7,43,"shot_yes","Jump Shot","2PT Field Goal",11,"Denver Nuggets",1,116,41
+"Golden State Warriors","11/10/16",2016,1,11,43,"shot_no","Jump Shot","2PT Field Goal",19,"Denver Nuggets",182,75,1
+"Golden State Warriors","11/10/16",2016,2,10,15,"shot_yes","Jump Shot","2PT Field Goal",16,"Denver Nuggets",115,120,14
+"Golden State Warriors","11/10/16",2016,2,0,6,"shot_no","Jump Shot","3PT Field Goal",24,"Denver Nuggets",-171,175,24
+"Golden State Warriors","11/10/16",2016,1,7,17,"shot_yes","Jump Shot","2PT Field Goal",13,"Denver Nuggets",61,115,5
+"Golden State Warriors","11/10/16",2016,4,11,42,"shot_no","Jump Shot","2PT Field Goal",15,"Denver Nuggets",-132,85,37
+"Golden State Warriors","11/10/16",2016,4,10,39,"shot_no","Jump Shot","3PT Field Goal",25,"Denver Nuggets",107,229,38
+"Golden State Warriors","11/10/16",2016,1,1,16,"shot_no","Jump Shot","2PT Field Goal",20,"Denver Nuggets",-159,136,11
+"Golden State Warriors","11/10/16",2016,3,10,3,"shot_no","Jump Shot","3PT Field Goal",25,"Denver Nuggets",138,214,26
+"Golden State Warriors","12/15/16",2016,3,2,43,"shot_no","Jump Shot","3PT Field Goal",23,"New York Knicks",233,-1,34
+"Golden State Warriors","1/22/17",2016,3,3,15,"shot_no","Jump Shot","3PT Field Goal",26,"Orlando Magic",145,223,33
+"Golden State Warriors","1/22/17",2016,1,8,14,"shot_no","Jump Shot","3PT Field Goal",26,"Orlando Magic",-94,252,4
+"Golden State Warriors","1/22/17",2016,3,5,55,"shot_yes","Jump Shot","3PT Field Goal",26,"Orlando Magic",-76,252,31
+"Golden State Warriors","2/11/17",2016,1,5,57,"shot_yes","Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",17,183,7
+"Golden State Warriors","12/15/16",2016,2,7,7,"shot_no","Jump Shot","3PT Field Goal",23,"New York Knicks",230,7,17
+"Golden State Warriors","12/15/16",2016,3,0,0,"shot_no","Jump Shot","3PT Field Goal",28,"New York Knicks",-56,278,36
+"Golden State Warriors","12/15/16",2016,3,7,0,"shot_no","Jump Shot","2PT Field Goal",16,"New York Knicks",87,139,29
+"Golden State Warriors","12/15/16",2016,1,0,49,"shot_yes","Jump Shot","3PT Field Goal",28,"New York Knicks",-102,262,12
+"Golden State Warriors","12/15/16",2016,2,4,2,"shot_no","Jump Shot","3PT Field Goal",23,"New York Knicks",232,28,20
+"Golden State Warriors","11/26/16",2016,3,8,53,"shot_yes","Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",200,159,28
+"Golden State Warriors","11/26/16",2016,1,2,8,"shot_no","Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",-37,33,10
+"Golden State Warriors","11/26/16",2016,2,8,8,"shot_no","Jump Shot","2PT Field Goal",13,"Minnesota Timberwolves",-55,121,16
+"Golden State Warriors","11/26/16",2016,2,0,41,"shot_no","Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-35,257,24
+"Golden State Warriors","12/15/16",2016,2,2,51,"shot_no","Jump Shot","2PT Field Goal",9,"New York Knicks",-2,95,22
+"Golden State Warriors","12/15/16",2016,3,9,0,"shot_no","Jump Shot","3PT Field Goal",25,"New York Knicks",148,210,27
+"Golden State Warriors","12/15/16",2016,3,8,31,"shot_no","Jump Shot","2PT Field Goal",10,"New York Knicks",99,16,28
+"Golden State Warriors","2/23/17",2016,1,2,52,"shot_no","Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",112,101,10
+"Golden State Warriors","2/11/17",2016,4,4,13,"shot_yes","Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",182,-10,44
+"Golden State Warriors","10/28/16",2016,4,9,52,"shot_no","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-151,208,39
+"Golden State Warriors","10/28/16",2016,3,11,11,"shot_no","Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-132,232,25
+"Golden State Warriors","10/28/16",2016,4,8,33,"shot_no","Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",105,72,40
+"Golden State Warriors","10/28/16",2016,1,10,32,"shot_no","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",145,208,2
+"Golden State Warriors","10/28/16",2016,1,10,9,"shot_yes","Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",0,110,2
+"Golden State Warriors","10/28/16",2016,2,4,38,"shot_no","Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",89,169,20
+"Golden State Warriors","10/28/16",2016,3,7,42,"shot_no","Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",86,129,29
+"Golden State Warriors","10/28/16",2016,2,0,8,"shot_no","Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",-53,61,24
+"Golden State Warriors","2/23/17",2016,1,11,41,"shot_no","Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",132,97,1
+"Golden State Warriors","2/23/17",2016,3,8,15,"shot_yes","Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-232,11,28
+"Golden State Warriors","2/23/17",2016,3,7,51,"shot_yes","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-163,208,29
+"Golden State Warriors","2/23/17",2016,4,5,53,"shot_no","Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",1,124,43
+"Golden State Warriors","2/23/17",2016,3,2,14,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",127,232,34
+"Golden State Warriors","2/23/17",2016,2,6,29,"shot_no","Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-99,149,18
+"Golden State Warriors","2/23/17",2016,2,1,24,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-160,213,23
+"Golden State Warriors","1/4/17",2016,3,11,22,"shot_no","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-101,249,25
+"Golden State Warriors","1/4/17",2016,2,10,25,"shot_no","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-50,257,14
+"Golden State Warriors","11/18/16",2016,4,8,55,"shot_yes","Jump Shot","2PT Field Goal",16,"Boston Celtics",130,97,40
+"Golden State Warriors","2/11/17",2016,2,5,55,"shot_yes","Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-222,92,19
+"Golden State Warriors","2/11/17",2016,1,11,24,"shot_yes","Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-16,124,1
+"Golden State Warriors","2/11/17",2016,3,11,6,"shot_no","Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-16,239,25
+"Golden State Warriors","2/11/17",2016,4,3,40,"shot_yes","Jump Shot","3PT Field Goal",28,"Oklahoma City Thunder",-179,218,45
+"Golden State Warriors","12/3/16",2016,1,10,8,"shot_no","Jump Shot","2PT Field Goal",14,"Phoenix Suns",-112,97,2
+"Golden State Warriors","12/28/16",2016,2,9,4,"shot_no","Jump Shot","3PT Field Goal",26,"Toronto Raptors",-83,247,15
+"Golden State Warriors","12/22/16",2016,1,6,13,"shot_yes","Jump Shot","2PT Field Goal",6,"Brooklyn Nets",9,65,6
+"Golden State Warriors","12/22/16",2016,1,10,18,"shot_yes","Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-109,213,2
+"Golden State Warriors","12/22/16",2016,2,2,25,"shot_no","Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-40,244,22
+"Golden State Warriors","12/22/16",2016,2,1,49,"shot_no","Jump Shot","3PT Field Goal",24,"Brooklyn Nets",240,38,23
+"Golden State Warriors","12/22/16",2016,1,8,25,"shot_yes","Jump Shot","2PT Field Goal",16,"Brooklyn Nets",-1,160,4
+"Golden State Warriors","12/22/16",2016,4,11,16,"shot_no","Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-55,237,37
+"Golden State Warriors","12/22/16",2016,4,10,30,"shot_no","Jump Shot","2PT Field Goal",14,"Brooklyn Nets",0,146,38
+"Golden State Warriors","12/22/16",2016,2,10,43,"shot_no","Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-140,120,14
+"Golden State Warriors","12/22/16",2016,3,7,49,"shot_no","Jump Shot","3PT Field Goal",25,"Brooklyn Nets",119,224,29
+"Golden State Warriors","11/18/16",2016,3,11,49,"shot_no","Jump Shot","2PT Field Goal",12,"Boston Celtics",6,129,25
+"Golden State Warriors","11/18/16",2016,2,1,25,"shot_no","Jump Shot","3PT Field Goal",25,"Boston Celtics",101,234,23
+"Golden State Warriors","11/18/16",2016,3,3,14,"shot_yes","Jump Shot","2PT Field Goal",20,"Boston Celtics",176,100,33
+"Golden State Warriors","11/18/16",2016,1,11,26,"shot_yes","Jump Shot","2PT Field Goal",19,"Boston Celtics",66,188,1
+"Golden State Warriors","11/18/16",2016,1,8,38,"shot_no","Jump Shot","2PT Field Goal",13,"Boston Celtics",60,116,4
+"Golden State Warriors","1/4/17",2016,1,9,16,"shot_yes","Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-232,11,3
+"Golden State Warriors","1/4/17",2016,3,1,20,"shot_no","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-94,244,35
+"Golden State Warriors","1/4/17",2016,4,5,25,"shot_no","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",101,247,43
+"Golden State Warriors","1/4/17",2016,4,4,35,"shot_no","Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-19,252,44
+"Golden State Warriors","1/4/17",2016,2,0,30,"shot_yes","Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",71,244,24
+"Golden State Warriors","12/17/16",2016,2,7,11,"shot_no","Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",82,154,17
+"Golden State Warriors","12/28/16",2016,1,7,19,"shot_yes","Jump Shot","3PT Field Goal",26,"Toronto Raptors",101,242,5
+"Golden State Warriors","12/28/16",2016,4,2,4,"shot_no","Jump Shot","3PT Field Goal",26,"Toronto Raptors",127,228,46
+"Golden State Warriors","12/28/16",2016,4,9,21,"shot_no","Jump Shot","2PT Field Goal",15,"Toronto Raptors",109,110,39
+"Golden State Warriors","12/28/16",2016,2,1,49,"shot_yes","Jump Shot","3PT Field Goal",26,"Toronto Raptors",127,232,23
+"Golden State Warriors","10/30/16",2016,3,11,19,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",-202,170,25
+"Golden State Warriors","11/28/16",2016,1,8,24,"shot_no","Jump Shot","2PT Field Goal",18,"Atlanta Hawks",127,134,4
+"Golden State Warriors","11/28/16",2016,4,2,12,"shot_no","Jump Shot","3PT Field Goal",27,"Atlanta Hawks",174,208,46
+"Golden State Warriors","11/28/16",2016,1,6,33,"shot_no","Jump Shot","2PT Field Goal",11,"Atlanta Hawks",-58,100,6
+"Golden State Warriors","11/28/16",2016,3,8,31,"shot_no","Jump Shot","2PT Field Goal",16,"Atlanta Hawks",-96,134,28
+"Golden State Warriors","11/28/16",2016,3,7,58,"shot_no","Jump Shot","2PT Field Goal",11,"Atlanta Hawks",-34,115,29
+"Golden State Warriors","11/28/16",2016,1,1,2,"shot_no","Jump Shot","3PT Field Goal",27,"Atlanta Hawks",164,223,11
+"Golden State Warriors","11/28/16",2016,4,11,42,"shot_yes","Jump Shot","2PT Field Goal",17,"Atlanta Hawks",130,111,37
+"Golden State Warriors","11/23/16",2016,1,8,27,"shot_yes","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",233,70,4
+"Golden State Warriors","11/23/16",2016,1,0,27,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",56,257,12
+"Golden State Warriors","11/23/16",2016,1,8,52,"shot_no","Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",20,129,4
+"Golden State Warriors","11/23/16",2016,1,10,8,"shot_no","Jump Shot","3PT Field Goal",28,"Los Angeles Lakers",-135,247,2
+"Golden State Warriors","10/30/16",2016,2,0,29,"shot_yes","Jump Shot","3PT Field Goal",27,"Phoenix Suns",233,144,24
+"Golden State Warriors","10/30/16",2016,3,10,26,"shot_yes","Jump Shot","2PT Field Goal",18,"Phoenix Suns",-58,178,26
+"Golden State Warriors","10/30/16",2016,3,5,9,"shot_yes","Jump Shot","3PT Field Goal",26,"Phoenix Suns",218,154,31
+"Golden State Warriors","10/30/16",2016,2,2,35,"shot_yes","Jump Shot","2PT Field Goal",17,"Phoenix Suns",-174,-5,22
+"Golden State Warriors","10/30/16",2016,4,4,38,"shot_yes","Jump Shot","2PT Field Goal",16,"Phoenix Suns",-130,95,44
+"Golden State Warriors","10/30/16",2016,2,10,19,"shot_no","Jump Shot","2PT Field Goal",12,"Phoenix Suns",-124,31,14
+"Golden State Warriors","10/30/16",2016,3,4,18,"shot_no","Jump Shot","2PT Field Goal",14,"Phoenix Suns",89,120,32
+"Golden State Warriors","10/30/16",2016,3,9,31,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",169,203,27
+"Golden State Warriors","11/7/16",2016,3,8,9,"shot_no","Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",9,129,28
+"Golden State Warriors","11/7/16",2016,3,7,1,"shot_no","Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-140,56,29
+"Golden State Warriors","11/7/16",2016,1,9,8,"shot_no","Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-71,159,3
+"Golden State Warriors","11/7/16",2016,4,10,11,"shot_no","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-112,228,38
+"Golden State Warriors","11/7/16",2016,3,9,51,"shot_no","Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-9,154,27
+"Golden State Warriors","11/7/16",2016,3,8,7,"shot_no","Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",-29,56,28
+"Golden State Warriors","2/13/17",2016,1,3,28,"shot_yes","Jump Shot","2PT Field Goal",18,"Denver Nuggets",1,185,9
+"Golden State Warriors","1/25/17",2016,1,4,31,"shot_no","Jump Shot","2PT Field Goal",12,"Charlotte Hornets",117,33,8
+"Golden State Warriors","12/10/16",2016,4,10,20,"shot_no","Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",138,224,38
+"Golden State Warriors","12/10/16",2016,4,11,3,"shot_no","Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-142,146,37
+"Golden State Warriors","12/10/16",2016,1,11,25,"shot_yes","Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-228,-21,1
+"Golden State Warriors","12/10/16",2016,1,10,30,"shot_no","Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",166,200,2
+"Golden State Warriors","1/16/17",2016,1,7,4,"shot_yes","Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-169,188,5
+"Golden State Warriors","1/16/17",2016,2,7,43,"shot_no","Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-176,198,17
+"Golden State Warriors","1/16/17",2016,3,2,27,"shot_no","Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",236,7,34
+"Golden State Warriors","1/16/17",2016,1,5,26,"shot_yes","Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-225,116,7
+"Golden State Warriors","12/17/16",2016,3,10,7,"shot_no","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",169,203,26
+"Golden State Warriors","12/17/16",2016,1,11,42,"shot_yes","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-78,249,1
+"Golden State Warriors","11/19/16",2016,2,1,7,"shot_yes","Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-246,65,23
+"Golden State Warriors","11/19/16",2016,2,0,35,"shot_yes","Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-235,7,24
+"Golden State Warriors","11/19/16",2016,2,8,7,"shot_yes","Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",-122,254,16
+"Golden State Warriors","11/19/16",2016,3,8,31,"shot_no","Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",-210,185,28
+"Golden State Warriors","11/19/16",2016,4,3,43,"shot_no","Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",84,237,45
+"Golden State Warriors","11/19/16",2016,4,4,10,"shot_no","Jump Shot","2PT Field Goal",6,"Milwaukee Bucks",-4,67,44
+"Golden State Warriors","11/19/16",2016,2,2,41,"shot_yes","Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",235,16,22
+"Golden State Warriors","11/19/16",2016,4,2,20,"shot_no","Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-241,2,46
+"Golden State Warriors","11/19/16",2016,4,8,55,"shot_yes","Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",4,156,40
+"Golden State Warriors","11/19/16",2016,1,6,17,"shot_yes","Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",238,18,6
+"Golden State Warriors","11/19/16",2016,4,0,11,"shot_no","Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",-55,183,48
+"Golden State Warriors","12/17/16",2016,1,0,4,"shot_yes","Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",94,165,12
+"Golden State Warriors","1/16/17",2016,3,7,23,"shot_no","Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",81,257,29
+"Golden State Warriors","1/16/17",2016,1,10,40,"shot_no","Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",210,139,2
+"Golden State Warriors","1/6/17",2016,2,1,39,"shot_no","Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",-171,213,23
+"Golden State Warriors","1/6/17",2016,4,2,31,"shot_no","Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-147,213,46
+"Golden State Warriors","1/6/17",2016,1,10,35,"shot_no","Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-132,159,2
+"Golden State Warriors","1/25/17",2016,3,8,55,"shot_no","Jump Shot","3PT Field Goal",24,"Charlotte Hornets",82,232,28
+"Golden State Warriors","1/25/17",2016,4,2,19,"shot_yes","Jump Shot","2PT Field Goal",19,"Charlotte Hornets",192,11,46
+"Golden State Warriors","1/25/17",2016,1,7,11,"shot_yes","Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-187,165,5
+"Golden State Warriors","1/25/17",2016,1,3,48,"shot_no","Jump Shot","2PT Field Goal",17,"Charlotte Hornets",91,154,9
+"Golden State Warriors","1/25/17",2016,2,1,16,"shot_no","Jump Shot","3PT Field Goal",23,"Charlotte Hornets",235,16,23
+"Golden State Warriors","1/25/17",2016,2,0,32,"shot_yes","Jump Shot","2PT Field Goal",16,"Charlotte Hornets",164,36,24
+"Golden State Warriors","1/25/17",2016,3,4,17,"shot_no","Jump Shot","2PT Field Goal",11,"Charlotte Hornets",24,111,32
+"Golden State Warriors","1/25/17",2016,4,2,42,"shot_no","Jump Shot","2PT Field Goal",3,"Charlotte Hornets",-22,31,46
+"Golden State Warriors","1/25/17",2016,2,4,57,"shot_no","Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-2,249,20
+"Golden State Warriors","1/25/17",2016,1,0,1,"shot_no","Jump Shot","2PT Field Goal",7,"Charlotte Hornets",61,46,12
+"Golden State Warriors","12/5/16",2016,3,9,59,"shot_no","Jump Shot","3PT Field Goal",25,"Indiana Pacers",-91,237,27
+"Golden State Warriors","11/13/16",2016,2,4,17,"shot_no","Jump Shot","2PT Field Goal",14,"Phoenix Suns",137,46,20
+"Golden State Warriors","11/13/16",2016,4,10,58,"shot_no","Jump Shot","2PT Field Goal",13,"Phoenix Suns",132,26,38
+"Golden State Warriors","11/13/16",2016,2,11,30,"shot_no","Jump Shot","2PT Field Goal",12,"Phoenix Suns",-114,61,13
+"Golden State Warriors","11/13/16",2016,2,4,7,"shot_no","Jump Shot","2PT Field Goal",4,"Phoenix Suns",-17,46,20
+"Golden State Warriors","11/13/16",2016,4,8,28,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",-71,252,40
+"Golden State Warriors","11/13/16",2016,4,0,42,"shot_no","Jump Shot","3PT Field Goal",25,"Phoenix Suns",200,154,48
+"Golden State Warriors","11/13/16",2016,3,0,44,"shot_no","Jump Shot","2PT Field Goal",5,"Phoenix Suns",37,47,36
+"Golden State Warriors","12/11/16",2016,4,8,25,"shot_yes","Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",135,149,40
+"Golden State Warriors","12/11/16",2016,2,11,22,"shot_no","Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-102,120,13
+"Golden State Warriors","12/11/16",2016,2,2,33,"shot_no","Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",132,141,22
+"Golden State Warriors","12/11/16",2016,2,9,16,"shot_yes","Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",-48,41,15
+"Golden State Warriors","12/11/16",2016,1,1,48,"shot_no","Jump Shot","2PT Field Goal",12,"Minnesota Timberwolves",119,21,11
+"Golden State Warriors","12/11/16",2016,3,0,34,"shot_no","Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-125,218,36
+"Golden State Warriors","12/11/16",2016,3,9,16,"shot_no","Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",225,8,27
+"Golden State Warriors","12/11/16",2016,4,11,14,"shot_no","Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",130,116,37
+"Golden State Warriors","12/11/16",2016,3,10,37,"shot_no","Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",199,7,26
+"Golden State Warriors","12/11/16",2016,2,1,37,"shot_no","Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",14,247,23
+"Golden State Warriors","12/11/16",2016,4,5,52,"shot_yes","Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",168,185,43
+"Golden State Warriors","10/25/16",2016,3,2,7,"shot_yes","Jump Shot","2PT Field Goal",21,"San Antonio Spurs",-214,21,34
+"Golden State Warriors","12/11/16",2016,1,9,17,"shot_no","Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",58,11,3
+"Golden State Warriors","12/5/16",2016,1,7,49,"shot_no","Jump Shot","2PT Field Goal",9,"Indiana Pacers",-94,16,5
+"Golden State Warriors","10/25/16",2016,2,4,31,"shot_no","Jump Shot","3PT Field Goal",23,"San Antonio Spurs",235,7,20
+"Golden State Warriors","10/25/16",2016,3,8,19,"shot_no","Jump Shot","2PT Field Goal",9,"San Antonio Spurs",86,28,28
+"Golden State Warriors","10/25/16",2016,2,1,28,"shot_no","Jump Shot","3PT Field Goal",25,"San Antonio Spurs",140,214,23
+"Golden State Warriors","1/18/17",2016,3,3,23,"shot_yes","Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-94,229,33
+"Golden State Warriors","12/1/16",2016,4,10,5,"shot_no","Jump Shot","3PT Field Goal",24,"Houston Rockets",232,80,38
+"Golden State Warriors","12/5/16",2016,1,8,43,"shot_no","Jump Shot","3PT Field Goal",26,"Indiana Pacers",102,244,4
+"Golden State Warriors","12/5/16",2016,2,8,21,"shot_no","Jump Shot","2PT Field Goal",13,"Indiana Pacers",132,7,16
+"Golden State Warriors","11/1/16",2016,1,11,34,"shot_no","Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",230,95,1
+"Golden State Warriors","11/1/16",2016,1,4,41,"shot_no","Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-114,228,8
+"Golden State Warriors","11/1/16",2016,3,11,22,"shot_no","Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-183,26,25
+"Golden State Warriors","2/13/17",2016,2,0,45,"shot_no","Jump Shot","3PT Field Goal",26,"Denver Nuggets",137,223,24
+"Golden State Warriors","12/30/16",2016,1,11,45,"shot_no","Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-119,228,1
+"Golden State Warriors","12/30/16",2016,4,5,26,"shot_no","Jump Shot","3PT Field Goal",24,"Dallas Mavericks",164,188,43
+"Golden State Warriors","12/30/16",2016,3,8,28,"shot_yes","Jump Shot","2PT Field Goal",14,"Dallas Mavericks",-11,146,28
+"Golden State Warriors","12/30/16",2016,4,10,51,"shot_no","Jump Shot","3PT Field Goal",24,"Dallas Mavericks",119,218,38
+"Golden State Warriors","12/30/16",2016,2,3,44,"shot_yes","Jump Shot","3PT Field Goal",26,"Dallas Mavericks",123,234,21
+"Golden State Warriors","1/18/17",2016,3,4,43,"shot_yes","Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-137,232,32
+"Golden State Warriors","12/1/16",2016,4,7,54,"shot_no","Jump Shot","2PT Field Goal",15,"Houston Rockets",-38,149,41
+"Golden State Warriors","12/1/16",2016,4,1,8,"shot_no","Jump Shot","3PT Field Goal",26,"Houston Rockets",-102,244,47
+"Golden State Warriors","12/1/16",2016,4,2,22,"shot_no","Jump Shot","3PT Field Goal",25,"Houston Rockets",22,252,46
+"Golden State Warriors","12/1/16",2016,1,9,52,"shot_no","Jump Shot","3PT Field Goal",24,"Houston Rockets",189,154,3
+"Golden State Warriors","12/1/16",2016,3,0,2,"shot_no","Jump Shot","3PT Field Goal",24,"Houston Rockets",223,100,36
+"Golden State Warriors","2/13/17",2016,2,6,52,"shot_yes","Jump Shot","3PT Field Goal",27,"Denver Nuggets",45,267,18
+"Golden State Warriors","2/13/17",2016,1,9,59,"shot_yes","Jump Shot","2PT Field Goal",11,"Denver Nuggets",-20,115,3
+"Golden State Warriors","2/13/17",2016,3,5,35,"shot_no","Jump Shot","3PT Field Goal",25,"Denver Nuggets",-65,242,31
+"Golden State Warriors","2/13/17",2016,2,3,25,"shot_no","Jump Shot","2PT Field Goal",15,"Denver Nuggets",-25,154,21
+"Golden State Warriors","2/1/17",2016,3,8,6,"shot_yes","Jump Shot","2PT Field Goal",13,"Charlotte Hornets",55,126,28
+"Golden State Warriors","2/1/17",2016,4,8,17,"shot_no","Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-88,237,40
+"Golden State Warriors","2/1/17",2016,3,11,30,"shot_no","Jump Shot","3PT Field Goal",25,"Charlotte Hornets",186,170,25
+"Golden State Warriors","2/1/17",2016,1,9,57,"shot_yes","Jump Shot","3PT Field Goal",27,"Charlotte Hornets",-192,193,3
+"Golden State Warriors","2/1/17",2016,1,3,44,"shot_no","Jump Shot","3PT Field Goal",24,"Charlotte Hornets",236,61,9
+"Golden State Warriors","2/1/17",2016,1,3,0,"shot_no","Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-12,257,9
+"Golden State Warriors","2/1/17",2016,2,0,50,"shot_no","Jump Shot","3PT Field Goal",26,"Charlotte Hornets",114,234,24
+"Golden State Warriors","2/1/17",2016,3,8,45,"shot_no","Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-135,214,28
+"Golden State Warriors","2/1/17",2016,3,6,1,"shot_no","Jump Shot","2PT Field Goal",3,"Charlotte Hornets",1,36,30
+"Golden State Warriors","12/13/16",2016,4,0,16,"shot_no","Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",51,188,48
+"Golden State Warriors","1/18/17",2016,4,4,34,"shot_yes","Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",140,219,44
+"Golden State Warriors","1/18/17",2016,1,1,47,"shot_yes","Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",184,36,11
+"Golden State Warriors","1/18/17",2016,2,5,6,"shot_yes","Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",-66,115,19
+"Golden State Warriors","1/18/17",2016,4,6,11,"shot_yes","Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",84,174,42
+"Golden State Warriors","1/18/17",2016,3,7,43,"shot_yes","Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",89,232,29
+"Golden State Warriors","1/18/17",2016,1,0,0,"shot_no","Jump Shot","3PT Field Goal",46,"Oklahoma City Thunder",6,462,12
+"Golden State Warriors","1/18/17",2016,3,2,47,"shot_no","Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-70,249,34
+"Golden State Warriors","1/18/17",2016,1,1,25,"shot_yes","Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",59,34,11
+"Golden State Warriors","12/23/16",2016,2,7,56,"shot_no","Jump Shot","3PT Field Goal",26,"Detroit Pistons",-133,228,17
+"Golden State Warriors","11/21/16",2016,2,0,38,"shot_no","Jump Shot","2PT Field Goal",16,"Indiana Pacers",-161,-16,24
+"Golden State Warriors","12/23/16",2016,3,6,2,"shot_yes","Jump Shot","2PT Field Goal",17,"Detroit Pistons",168,61,30
+"Golden State Warriors","12/23/16",2016,1,9,39,"shot_yes","Jump Shot","3PT Field Goal",25,"Detroit Pistons",-214,139,3
+"Golden State Warriors","12/23/16",2016,1,7,1,"shot_yes","Jump Shot","3PT Field Goal",24,"Detroit Pistons",51,244,5
+"Golden State Warriors","12/23/16",2016,3,5,46,"shot_yes","Jump Shot","2PT Field Goal",15,"Detroit Pistons",1,154,31
+"Golden State Warriors","12/23/16",2016,4,8,20,"shot_yes","Jump Shot","2PT Field Goal",10,"Detroit Pistons",-61,80,40
+"Golden State Warriors","12/23/16",2016,3,11,29,"shot_no","Jump Shot","2PT Field Goal",17,"Detroit Pistons",114,139,25
+"Golden State Warriors","12/23/16",2016,1,11,36,"shot_no","Jump Shot","2PT Field Goal",17,"Detroit Pistons",74,164,1
+"Golden State Warriors","12/23/16",2016,4,1,56,"shot_yes","Jump Shot","3PT Field Goal",25,"Detroit Pistons",25,257,47
+"Golden State Warriors","12/23/16",2016,1,0,1,"shot_no","Jump Shot","2PT Field Goal",15,"Detroit Pistons",78,134,12
+"Golden State Warriors","11/9/16",2016,2,0,31,"shot_yes","Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-235,75,24
+"Golden State Warriors","11/9/16",2016,3,9,25,"shot_yes","Jump Shot","2PT Field Goal",11,"Dallas Mavericks",9,116,27
+"Golden State Warriors","11/9/16",2016,3,0,0,"shot_no","Jump Shot","3PT Field Goal",58,"Dallas Mavericks",115,572,36
+"Golden State Warriors","12/25/16",2016,4,0,0,"shot_no","Jump Shot","3PT Field Goal",33,"Cleveland Cavaliers",-214,259,48
+"Golden State Warriors","12/13/16",2016,4,11,22,"shot_no","Jump Shot","2PT Field Goal",9,"New Orleans Pelicans",-66,65,37
+"Golden State Warriors","12/13/16",2016,2,10,38,"shot_no","Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",114,136,14
+"Golden State Warriors","12/13/16",2016,4,6,49,"shot_no","Jump Shot","3PT Field Goal",29,"New Orleans Pelicans",-7,296,42
+"Golden State Warriors","12/13/16",2016,3,8,14,"shot_no","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",87,239,28
+"Golden State Warriors","12/13/16",2016,1,2,45,"shot_no","Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",-92,51,10
+"Golden State Warriors","12/13/16",2016,4,1,5,"shot_no","Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",135,36,47
+"Golden State Warriors","12/13/16",2016,2,1,50,"shot_yes","Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-89,159,23
+"Golden State Warriors","12/13/16",2016,3,11,15,"shot_yes","Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",64,92,25
+"Golden State Warriors","12/13/16",2016,3,7,3,"shot_yes","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-187,178,29
+"Golden State Warriors","12/25/16",2016,1,6,44,"shot_no","Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-243,41,6
+"Golden State Warriors","12/25/16",2016,3,11,33,"shot_yes","Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-214,169,25
+"Golden State Warriors","12/7/16",2016,2,3,2,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",76,247,21
+"Golden State Warriors","2/2/17",2016,1,9,28,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",20,252,3
+"Golden State Warriors","2/2/17",2016,3,5,43,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-137,228,31
+"Golden State Warriors","2/2/17",2016,1,3,7,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",176,198,9
+"Golden State Warriors","12/25/16",2016,4,5,20,"shot_no","Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-227,146,43
+"Golden State Warriors","2/2/17",2016,2,1,57,"shot_yes","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",122,232,23
+"Golden State Warriors","2/2/17",2016,4,7,12,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",114,239,41
+"Golden State Warriors","2/2/17",2016,4,8,6,"shot_no","Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",102,11,40
+"Golden State Warriors","2/2/17",2016,4,1,35,"shot_yes","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-81,242,47
+"Golden State Warriors","11/21/16",2016,3,1,44,"shot_no","Jump Shot","3PT Field Goal",27,"Indiana Pacers",0,272,35
+"Golden State Warriors","11/21/16",2016,3,11,2,"shot_no","Jump Shot","3PT Field Goal",28,"Indiana Pacers",233,164,25
+"Golden State Warriors","11/21/16",2016,2,1,34,"shot_yes","Jump Shot","3PT Field Goal",26,"Indiana Pacers",159,208,23
+"Golden State Warriors","12/7/16",2016,1,10,46,"shot_no","Jump Shot","3PT Field Goal",28,"Los Angeles Clippers",-189,210,2
+"Golden State Warriors","12/7/16",2016,1,10,23,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",12,262,2
+"Golden State Warriors","12/7/16",2016,2,11,22,"shot_no","Jump Shot","2PT Field Goal",6,"Los Angeles Clippers",-14,65,13
+"Golden State Warriors","12/7/16",2016,3,11,2,"shot_no","Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",-120,146,25
+"Golden State Warriors","12/7/16",2016,3,6,26,"shot_yes","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-7,262,30
+"Golden State Warriors","11/25/16",2016,2,8,8,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",147,202,16
+"Golden State Warriors","12/25/16",2016,3,11,4,"shot_no","Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",148,214,25
+"Golden State Warriors","12/25/16",2016,1,8,10,"shot_no","Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",146,229,4
+"Golden State Warriors","11/25/16",2016,2,2,21,"shot_yes","Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",-178,124,22
+"Golden State Warriors","11/25/16",2016,1,11,9,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",63,241,1
+"Golden State Warriors","11/25/16",2016,2,11,7,"shot_yes","Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",228,26,13
+"Golden State Warriors","11/25/16",2016,4,9,49,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",52,246,39
+"Golden State Warriors","11/25/16",2016,4,10,40,"shot_yes","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-83,232,38
+"Golden State Warriors","11/25/16",2016,4,8,36,"shot_no","Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",112,130,40
+"Golden State Warriors","12/25/16",2016,3,6,7,"shot_no","Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",50,252,30
+"Golden State Warriors","12/25/16",2016,2,0,29,"shot_yes","Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",166,183,24
+"Golden State Warriors","12/25/16",2016,4,1,55,"shot_no","Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-114,165,47
+"Golden State Warriors","12/25/16",2016,4,11,44,"shot_no","Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",173,7,37
+"Golden State Warriors","12/8/16",2016,4,0,23,"shot_no","Jump Shot","2PT Field Goal",13,"Utah Jazz",-73,115,48
+"Golden State Warriors","12/8/16",2016,3,8,14,"shot_yes","Jump Shot","3PT Field Goal",24,"Utah Jazz",148,200,28
+"Golden State Warriors","1/8/17",2016,3,8,2,"shot_yes","Jump Shot","3PT Field Goal",24,"Sacramento Kings",-189,159,28
+"Golden State Warriors","1/8/17",2016,4,0,47,"shot_yes","Jump Shot","3PT Field Goal",24,"Sacramento Kings",-84,228,48
+"Golden State Warriors","1/8/17",2016,1,7,0,"shot_no","Jump Shot","3PT Field Goal",24,"Sacramento Kings",236,52,5
+"Golden State Warriors","1/8/17",2016,1,0,33,"shot_no","Jump Shot","2PT Field Goal",7,"Sacramento Kings",-1,72,12
+"Golden State Warriors","1/8/17",2016,2,8,42,"shot_yes","Jump Shot","2PT Field Goal",17,"Sacramento Kings",76,154,16
+"Golden State Warriors","1/8/17",2016,2,8,8,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",51,247,16
+"Golden State Warriors","2/27/17",2016,2,3,2,"shot_no","Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-214,178,21
+"Golden State Warriors","12/8/16",2016,4,11,9,"shot_no","Jump Shot","2PT Field Goal",14,"Utah Jazz",-65,134,37
+"Golden State Warriors","12/8/16",2016,3,10,51,"shot_no","Jump Shot","3PT Field Goal",26,"Utah Jazz",-135,232,26
+"Golden State Warriors","1/28/17",2016,1,7,5,"shot_yes","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-124,223,5
+"Golden State Warriors","1/20/17",2016,1,5,13,"shot_no","Jump Shot","3PT Field Goal",25,"Houston Rockets",-6,252,7
+"Golden State Warriors","1/20/17",2016,3,3,31,"shot_no","Jump Shot","3PT Field Goal",25,"Houston Rockets",4,252,33
+"Golden State Warriors","12/20/16",2016,3,11,20,"shot_yes","Jump Shot","2PT Field Goal",4,"Utah Jazz",-37,26,25
+"Golden State Warriors","2/27/17",2016,3,7,20,"shot_no","Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-6,160,29
+"Golden State Warriors","2/27/17",2016,2,0,39,"shot_no","Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",53,247,24
+"Golden State Warriors","2/8/17",2016,1,6,3,"shot_no","Jump Shot","2PT Field Goal",16,"Chicago Bulls",-124,110,6
+"Golden State Warriors","2/8/17",2016,3,1,12,"shot_yes","Jump Shot","3PT Field Goal",26,"Chicago Bulls",-34,262,35
+"Golden State Warriors","2/8/17",2016,2,0,27,"shot_no","Jump Shot","3PT Field Goal",28,"Chicago Bulls",-9,282,24
+"Golden State Warriors","2/8/17",2016,1,7,21,"shot_no","Jump Shot","2PT Field Goal",18,"Chicago Bulls",145,120,5
+"Golden State Warriors","1/2/17",2016,1,11,43,"shot_no","Jump Shot","2PT Field Goal",16,"Denver Nuggets",9,165,1
+"Golden State Warriors","11/3/16",2016,1,3,9,"shot_no","Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",128,28,9
+"Golden State Warriors","11/3/16",2016,3,0,34,"shot_no","Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",58,95,36
+"Golden State Warriors","11/3/16",2016,2,3,29,"shot_no","Jump Shot","3PT Field Goal",31,"Oklahoma City Thunder",-174,262,21
+"Golden State Warriors","11/3/16",2016,2,2,55,"shot_no","Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",-27,62,22
+"Golden State Warriors","11/3/16",2016,2,0,2,"shot_no","Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",192,178,24
+"Golden State Warriors","11/3/16",2016,4,11,19,"shot_no","Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-217,149,37
+"Golden State Warriors","11/3/16",2016,2,10,49,"shot_yes","Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-196,174,14
+"Golden State Warriors","12/20/16",2016,1,11,34,"shot_no","Jump Shot","2PT Field Goal",14,"Utah Jazz",71,131,1
+"Golden State Warriors","12/20/16",2016,1,8,49,"shot_no","Jump Shot","3PT Field Goal",26,"Utah Jazz",6,262,4
+"Golden State Warriors","11/16/16",2016,2,2,6,"shot_no","Jump Shot","3PT Field Goal",26,"Toronto Raptors",-68,254,22
+"Golden State Warriors","11/16/16",2016,3,2,53,"shot_no","Jump Shot","3PT Field Goal",26,"Toronto Raptors",12,262,34
+"Golden State Warriors","11/16/16",2016,2,8,51,"shot_yes","Jump Shot","3PT Field Goal",23,"Toronto Raptors",-184,154,16
+"Golden State Warriors","11/16/16",2016,2,2,52,"shot_yes","Jump Shot","3PT Field Goal",26,"Toronto Raptors",-168,210,22
+"Golden State Warriors","11/21/16",2016,1,0,4,"shot_no","Jump Shot","3PT Field Goal",25,"Indiana Pacers",212,144,12
+"Golden State Warriors","1/20/17",2016,4,6,57,"shot_no","Jump Shot","3PT Field Goal",29,"Houston Rockets",156,247,42
+"Golden State Warriors","1/20/17",2016,2,4,28,"shot_no","Jump Shot","2PT Field Goal",6,"Houston Rockets",12,67,20
+"Golden State Warriors","1/20/17",2016,2,4,4,"shot_yes","Jump Shot","3PT Field Goal",24,"Houston Rockets",177,174,20
+"Golden State Warriors","1/20/17",2016,4,3,40,"shot_yes","Jump Shot","2PT Field Goal",20,"Houston Rockets",-168,120,45
+"Golden State Warriors","1/20/17",2016,2,1,9,"shot_no","Jump Shot","2PT Field Goal",17,"Houston Rockets",117,131,23
+"Golden State Warriors","1/20/17",2016,1,2,35,"shot_yes","Jump Shot","3PT Field Goal",25,"Houston Rockets",89,242,10
+"Golden State Warriors","1/20/17",2016,3,5,30,"shot_no","Jump Shot","3PT Field Goal",26,"Houston Rockets",171,208,31
+"Golden State Warriors","1/28/17",2016,1,4,54,"shot_no","Jump Shot","3PT Field Goal",22,"Los Angeles Clippers",223,41,8
+"Golden State Warriors","1/2/17",2016,3,3,47,"shot_no","Jump Shot","3PT Field Goal",26,"Denver Nuggets",218,156,33
+"Golden State Warriors","1/2/17",2016,4,3,13,"shot_no","Jump Shot","3PT Field Goal",26,"Denver Nuggets",9,264,45
+"Golden State Warriors","1/2/17",2016,2,9,51,"shot_no","Jump Shot","2PT Field Goal",3,"Denver Nuggets",25,21,15
+"Golden State Warriors","1/2/17",2016,2,8,9,"shot_no","Jump Shot","2PT Field Goal",18,"Denver Nuggets",145,115,16
+"Golden State Warriors","1/28/17",2016,2,1,3,"shot_yes","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",158,205,23
+"Golden State Warriors","1/28/17",2016,2,5,14,"shot_no","Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",56,175,19
+"Golden State Warriors","1/28/17",2016,3,6,21,"shot_yes","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",146,223,30
+"Golden State Warriors","2/27/17",2016,2,5,30,"shot_no","Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-192,175,19
+"Golden State Warriors","2/27/17",2016,3,11,41,"shot_yes","Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-235,13,25
+"Golden State Warriors","1/29/17",2016,4,2,1,"shot_yes","Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",9,214,46
+"Golden State Warriors","1/29/17",2016,1,1,27,"shot_no","Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",14,257,11
+"Golden State Warriors","1/29/17",2016,1,9,54,"shot_no","Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",155,193,3
+"Golden State Warriors","1/29/17",2016,1,9,20,"shot_yes","Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",-104,7,3
+"Golden State Warriors","1/29/17",2016,1,1,55,"shot_yes","Jump Shot","2PT Field Goal",22,"Portland Trail Blazers",133,185,11
+"Golden State Warriors","2/10/17",2016,2,1,35,"shot_no","Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",232,11,23
+"Golden State Warriors","2/4/17",2016,2,4,37,"shot_no","Jump Shot","3PT Field Goal",26,"Sacramento Kings",-2,262,20
+"Golden State Warriors","2/4/17",2016,1,4,48,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",-27,252,8
+"Golden State Warriors","2/4/17",2016,4,6,46,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",114,229,42
+"Golden State Warriors","2/4/17",2016,1,11,43,"shot_no","Jump Shot","3PT Field Goal",22,"Sacramento Kings",-227,3,1
+"Golden State Warriors","2/4/17",2016,3,2,0,"shot_no","Jump Shot","3PT Field Goal",24,"Sacramento Kings",-171,175,34
+"Golden State Warriors","2/4/17",2016,3,10,21,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",50,249,26
+"Golden State Warriors","2/15/17",2016,3,11,0,"shot_yes","Jump Shot","2PT Field Goal",18,"Sacramento Kings",187,8,25
+"Golden State Warriors","2/15/17",2016,1,4,11,"shot_yes","Jump Shot","3PT Field Goal",25,"Sacramento Kings",153,198,8
+"Golden State Warriors","2/15/17",2016,1,4,39,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",-156,203,8
+"Golden State Warriors","2/15/17",2016,1,5,35,"shot_no","Jump Shot","2PT Field Goal",5,"Sacramento Kings",-30,43,7
+"Golden State Warriors","2/15/17",2016,2,3,5,"shot_no","Jump Shot","3PT Field Goal",27,"Sacramento Kings",192,198,21
+"Golden State Warriors","2/15/17",2016,2,7,25,"shot_yes","Jump Shot","2PT Field Goal",17,"Sacramento Kings",135,115,17
+"Golden State Warriors","2/15/17",2016,2,1,23,"shot_no","Jump Shot","3PT Field Goal",26,"Sacramento Kings",-150,223,23
+"Golden State Warriors","2/10/17",2016,1,6,40,"shot_yes","Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",236,7,6
+"Golden State Warriors","2/10/17",2016,3,7,56,"shot_yes","Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",184,174,29
+"Golden State Warriors","2/10/17",2016,3,10,33,"shot_yes","Jump Shot","2PT Field Goal",13,"Memphis Grizzlies",109,87,26
+"Golden State Warriors","2/10/17",2016,4,3,42,"shot_no","Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",158,210,45
+"Golden State Warriors","2/10/17",2016,3,9,2,"shot_no","Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",151,154,27
+"Golden State Warriors","2/10/17",2016,1,8,6,"shot_no","Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",99,232,4
+"Golden State Warriors","12/25/16",2016,4,10,5,"shot_yes","Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-7,-1,38
+"Golden State Warriors","12/13/16",2016,1,0,17,"shot_no","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",20,0,12
+"Golden State Warriors","2/2/17",2016,2,0,33,"shot_yes","Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",17,26,24
+"Golden State Warriors","10/28/16",2016,1,6,26,"shot_no","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-22,2,6
+"Golden State Warriors","10/28/16",2016,1,3,2,"shot_yes","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-20,3,9
+"Golden State Warriors","10/28/16",2016,4,0,37,"shot_yes","Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",15,8,48
+"Golden State Warriors","12/7/16",2016,2,10,51,"shot_no","Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-4,16,14
+"Golden State Warriors","11/23/16",2016,2,0,42,"shot_yes","Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,7,24
+"Golden State Warriors","11/4/16",2016,1,5,56,"shot_yes","Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-5,-11,7
+"Golden State Warriors","11/10/16",2016,4,8,4,"shot_no","Layup Shot","2PT Field Goal",1,"Denver Nuggets",15,11,40
+"Golden State Warriors","2/23/17",2016,2,5,50,"shot_no","Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",9,2,19
+"Golden State Warriors","12/28/16",2016,1,6,26,"shot_yes","Layup Shot","2PT Field Goal",1,"Toronto Raptors",1,13,6
+"Golden State Warriors","1/8/17",2016,4,4,34,"shot_no","Layup Shot","2PT Field Goal",2,"Sacramento Kings",5,21,44
+"Golden State Warriors","12/8/16",2016,2,9,26,"shot_yes","Layup Shot","2PT Field Goal",1,"Utah Jazz",10,7,15
+"Golden State Warriors","2/28/17",2016,1,11,40,"shot_no","Layup Shot","2PT Field Goal",2,"Washington Wizards",25,-10,1
+"Golden State Warriors","12/15/16",2016,1,10,37,"shot_no","Layup Shot","2PT Field Goal",0,"New York Knicks",2,0,2
+"Golden State Warriors","12/20/16",2016,3,11,25,"shot_no","Layup Shot","2PT Field Goal",1,"Utah Jazz",9,16,25
+"Golden State Warriors","10/25/16",2016,2,0,46,"shot_no","Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,11,24
+"Golden State Warriors","12/11/16",2016,1,5,33,"shot_yes","Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",6,3,7
+"Golden State Warriors","12/5/16",2016,2,1,43,"shot_yes","Layup Shot","2PT Field Goal",1,"Indiana Pacers",-9,16,23
+"Golden State Warriors","11/4/16",2016,2,7,16,"shot_yes","Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-7,-2,17
+"Golden State Warriors","11/13/16",2016,3,7,16,"shot_no","Layup Shot","2PT Field Goal",1,"Phoenix Suns",0,16,29
+"Golden State Warriors","12/22/16",2016,2,8,25,"shot_no","Layup Shot","2PT Field Goal",1,"Brooklyn Nets",11,-1,16
+"Golden State Warriors","12/22/16",2016,3,4,17,"shot_yes","Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-9,7,32
+"Golden State Warriors","12/1/16",2016,4,2,22,"shot_yes","Layup Shot","2PT Field Goal",2,"Houston Rockets",0,21,46
+"Golden State Warriors","12/3/16",2016,3,10,2,"shot_no","Layup Shot","2PT Field Goal",0,"Phoenix Suns",6,-1,26
+"Golden State Warriors","12/1/16",2016,3,11,44,"shot_no","Layup Shot","2PT Field Goal",2,"Houston Rockets",-1,21,25
+"Golden State Warriors","1/6/17",2016,2,5,32,"shot_no","Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-1,2,19
+"Golden State Warriors","2/1/17",2016,3,9,33,"shot_no","Layup Shot","2PT Field Goal",0,"Charlotte Hornets",2,8,27
+"Golden State Warriors","12/20/16",2016,3,9,54,"shot_yes","Layup Shot","2PT Field Goal",2,"Utah Jazz",17,21,27
+"Golden State Warriors","11/19/16",2016,1,1,45,"shot_no","Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-9,3,11
+"Golden State Warriors","11/19/16",2016,2,11,48,"shot_no","Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-10,-1,13
+"Golden State Warriors","12/23/16",2016,3,6,39,"shot_yes","Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,2,30
+"Golden State Warriors","1/16/17",2016,1,7,42,"shot_no","Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",20,16,5
+"Golden State Warriors","12/13/16",2016,1,9,15,"shot_no","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-25,7,3
+"Golden State Warriors","1/6/17",2016,4,4,42,"shot_no","Pullup Bank shot","2PT Field Goal",12,"Memphis Grizzlies",-117,43,44
+"Golden State Warriors","12/30/16",2016,2,10,29,"shot_yes","Pullup Jump shot","3PT Field Goal",22,"Dallas Mavericks",227,31,14
+"Golden State Warriors","12/30/16",2016,2,9,18,"shot_yes","Pullup Jump shot","2PT Field Goal",16,"Dallas Mavericks",0,165,15
+"Golden State Warriors","11/3/16",2016,2,4,6,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Oklahoma City Thunder",40,262,20
+"Golden State Warriors","11/3/16",2016,1,0,4,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",181,178,12
+"Golden State Warriors","12/1/16",2016,3,7,50,"shot_no","Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",61,175,29
+"Golden State Warriors","1/6/17",2016,4,0,22,"shot_no","Pullup Jump shot","3PT Field Goal",24,"Memphis Grizzlies",50,244,48
+"Golden State Warriors","11/3/16",2016,2,4,21,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Oklahoma City Thunder",92,247,20
+"Golden State Warriors","1/29/17",2016,2,2,55,"shot_no","Pullup Jump shot","2PT Field Goal",14,"Portland Trail Blazers",-9,144,22
+"Golden State Warriors","2/11/17",2016,1,2,59,"shot_no","Pullup Jump shot","3PT Field Goal",31,"Oklahoma City Thunder",-56,311,10
+"Golden State Warriors","2/1/17",2016,3,5,27,"shot_yes","Pullup Jump shot","2PT Field Goal",18,"Charlotte Hornets",117,139,31
+"Golden State Warriors","11/3/16",2016,4,8,33,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",204,149,40
+"Golden State Warriors","11/7/16",2016,2,6,51,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"New Orleans Pelicans",-196,164,18
+"Golden State Warriors","11/25/16",2016,3,9,24,"shot_yes","Pullup Jump shot","2PT Field Goal",15,"Los Angeles Lakers",117,109,27
+"Golden State Warriors","11/3/16",2016,2,1,7,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Oklahoma City Thunder",45,259,23
+"Golden State Warriors","1/29/17",2016,4,6,10,"shot_no","Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",81,232,42
+"Golden State Warriors","12/30/16",2016,1,6,51,"shot_yes","Pullup Jump shot","2PT Field Goal",15,"Dallas Mavericks",19,149,6
+"Golden State Warriors","12/1/16",2016,4,10,41,"shot_yes","Pullup Jump shot","3PT Field Goal",23,"Houston Rockets",230,51,38
+"Golden State Warriors","12/22/16",2016,2,8,56,"shot_yes","Pullup Jump shot","2PT Field Goal",15,"Brooklyn Nets",96,121,16
+"Golden State Warriors","12/20/16",2016,2,7,5,"shot_no","Pullup Jump shot","2PT Field Goal",16,"Utah Jazz",20,159,17
+"Golden State Warriors","12/10/16",2016,2,8,22,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Memphis Grizzlies",97,232,16
+"Golden State Warriors","10/25/16",2016,1,6,1,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"San Antonio Spurs",173,193,6
+"Golden State Warriors","10/25/16",2016,1,0,53,"shot_no","Pullup Jump shot","2PT Field Goal",13,"San Antonio Spurs",-125,52,12
+"Golden State Warriors","11/4/16",2016,1,1,48,"shot_no","Pullup Jump shot","2PT Field Goal",17,"Los Angeles Lakers",-109,140,11
+"Golden State Warriors","12/30/16",2016,1,1,4,"shot_yes","Pullup Jump shot","2PT Field Goal",14,"Dallas Mavericks",-71,121,11
+"Golden State Warriors","2/11/17",2016,3,7,37,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",32,254,29
+"Golden State Warriors","12/30/16",2016,3,11,39,"shot_no","Pullup Jump shot","3PT Field Goal",28,"Dallas Mavericks",168,228,25
+"Golden State Warriors","1/29/17",2016,3,7,29,"shot_yes","Pullup Jump shot","2PT Field Goal",14,"Portland Trail Blazers",-79,124,29
+"Golden State Warriors","1/29/17",2016,3,3,28,"shot_no","Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",97,146,33
+"Golden State Warriors","12/17/16",2016,2,1,58,"shot_yes","Pullup Jump shot","2PT Field Goal",10,"Portland Trail Blazers",96,46,23
+"Golden State Warriors","12/11/16",2016,3,1,34,"shot_no","Pullup Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",-102,174,35
+"Golden State Warriors","12/5/16",2016,1,9,10,"shot_yes","Pullup Jump shot","2PT Field Goal",16,"Indiana Pacers",97,139,3
+"Golden State Warriors","12/11/16",2016,1,11,6,"shot_no","Pullup Jump shot","2PT Field Goal",19,"Minnesota Timberwolves",96,165,1
+"Golden State Warriors","1/2/17",2016,2,8,35,"shot_no","Pullup Jump shot","2PT Field Goal",13,"Denver Nuggets",-63,120,16
+"Golden State Warriors","12/17/16",2016,3,3,14,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Portland Trail Blazers",-150,219,33
+"Golden State Warriors","11/16/16",2016,4,9,58,"shot_yes","Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",-158,100,39
+"Golden State Warriors","11/1/16",2016,1,0,1,"shot_yes","Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",-24,198,12
+"Golden State Warriors","11/13/16",2016,1,2,23,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Phoenix Suns",205,159,10
+"Golden State Warriors","11/1/16",2016,1,11,41,"shot_no","Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",73,159,1
+"Golden State Warriors","12/30/16",2016,4,8,42,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",46,252,40
+"Golden State Warriors","1/29/17",2016,2,0,33,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Portland Trail Blazers",9,259,24
+"Golden State Warriors","1/2/17",2016,1,10,25,"shot_yes","Pullup Jump shot","2PT Field Goal",17,"Denver Nuggets",-101,146,2
+"Golden State Warriors","2/10/17",2016,3,10,9,"shot_no","Pullup Jump shot","2PT Field Goal",9,"Memphis Grizzlies",58,80,26
+"Golden State Warriors","11/1/16",2016,3,4,10,"shot_no","Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",53,242,32
+"Golden State Warriors","11/1/16",2016,1,8,18,"shot_no","Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-114,115,4
+"Golden State Warriors","12/10/16",2016,1,5,48,"shot_yes","Pullup Jump shot","2PT Field Goal",6,"Memphis Grizzlies",4,65,7
+"Golden State Warriors","12/13/16",2016,1,3,16,"shot_yes","Pullup Jump shot","2PT Field Goal",11,"New Orleans Pelicans",114,11,9
+"Golden State Warriors","12/30/16",2016,1,9,1,"shot_yes","Pullup Jump shot","2PT Field Goal",16,"Dallas Mavericks",96,131,3
+"Golden State Warriors","12/17/16",2016,3,8,39,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Portland Trail Blazers",84,247,28
+"Golden State Warriors","12/1/16",2016,2,11,38,"shot_yes","Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",-140,134,13
+"Golden State Warriors","11/13/16",2016,2,0,47,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Phoenix Suns",197,183,24
+"Golden State Warriors","2/13/17",2016,3,10,12,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Denver Nuggets",110,229,26
+"Golden State Warriors","2/11/17",2016,1,6,24,"shot_no","Pullup Jump shot","2PT Field Goal",13,"Oklahoma City Thunder",-47,129,6
+"Golden State Warriors","1/16/17",2016,2,5,52,"shot_no","Pullup Jump shot","2PT Field Goal",11,"Cleveland Cavaliers",117,26,19
+"Golden State Warriors","11/25/16",2016,4,9,11,"shot_yes","Pullup Jump shot","2PT Field Goal",16,"Los Angeles Lakers",148,70,39
+"Golden State Warriors","11/9/16",2016,2,2,23,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Dallas Mavericks",-4,267,22
+"Golden State Warriors","11/26/16",2016,2,11,25,"shot_no","Pullup Jump shot","2PT Field Goal",16,"Minnesota Timberwolves",38,160,13
+"Golden State Warriors","2/2/17",2016,2,8,59,"shot_no","Pullup Jump shot","2PT Field Goal",8,"Los Angeles Clippers",-65,61,16
+"Golden State Warriors","11/28/16",2016,3,2,57,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",114,232,34
+"Golden State Warriors","11/7/16",2016,2,7,45,"shot_no","Pullup Jump shot","3PT Field Goal",22,"New Orleans Pelicans",225,46,17
+"Golden State Warriors","11/25/16",2016,1,9,43,"shot_yes","Pullup Jump shot","2PT Field Goal",18,"Los Angeles Lakers",-104,158,3
+"Golden State Warriors","1/8/17",2016,4,5,32,"shot_no","Pullup Jump shot","2PT Field Goal",17,"Sacramento Kings",-1,175,43
+"Golden State Warriors","2/10/17",2016,3,11,17,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Memphis Grizzlies",25,267,25
+"Golden State Warriors","12/25/16",2016,3,8,55,"shot_yes","Pullup Jump shot","2PT Field Goal",7,"Cleveland Cavaliers",42,61,28
+"Golden State Warriors","11/16/16",2016,1,0,28,"shot_no","Pullup Jump shot","3PT Field Goal",23,"Toronto Raptors",19,239,12
+"Golden State Warriors","11/21/16",2016,2,9,15,"shot_no","Pullup Jump shot","2PT Field Goal",18,"Indiana Pacers",128,134,15
+"Golden State Warriors","12/25/16",2016,3,1,25,"shot_yes","Pullup Jump shot","2PT Field Goal",14,"Cleveland Cavaliers",-19,144,35
+"Golden State Warriors","11/28/16",2016,2,8,57,"shot_no","Pullup Jump shot","2PT Field Goal",13,"Atlanta Hawks",68,120,16
+"Golden State Warriors","1/28/17",2016,1,10,21,"shot_yes","Pullup Jump shot","2PT Field Goal",13,"Los Angeles Clippers",9,134,2
+"Golden State Warriors","1/25/17",2016,1,2,25,"shot_no","Pullup Jump shot","2PT Field Goal",17,"Charlotte Hornets",145,100,10
+"Golden State Warriors","11/9/16",2016,3,4,2,"shot_no","Pullup Jump shot","2PT Field Goal",8,"Dallas Mavericks",-4,85,32
+"Golden State Warriors","11/28/16",2016,3,9,37,"shot_yes","Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",-117,120,27
+"Golden State Warriors","10/30/16",2016,1,7,28,"shot_yes","Pullup Jump shot","2PT Field Goal",18,"Phoenix Suns",-108,146,5
+"Golden State Warriors","11/9/16",2016,4,10,36,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",22,257,38
+"Golden State Warriors","12/20/16",2016,1,5,30,"shot_yes","Pullup Jump shot","2PT Field Goal",20,"Utah Jazz",-107,169,7
+"Golden State Warriors","12/1/16",2016,2,0,26,"shot_no","Pullup Jump shot","2PT Field Goal",9,"Houston Rockets",94,28,24
+"Golden State Warriors","11/4/16",2016,4,9,46,"shot_yes","Pullup Jump shot","2PT Field Goal",17,"Los Angeles Lakers",122,130,39
+"Golden State Warriors","12/28/16",2016,2,0,4,"shot_yes","Pullup Jump shot","3PT Field Goal",23,"Toronto Raptors",-232,16,24
+"Golden State Warriors","2/10/17",2016,1,2,5,"shot_no","Pullup Jump shot","2PT Field Goal",15,"Memphis Grizzlies",-122,100,10
+"Golden State Warriors","11/3/16",2016,3,10,48,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Oklahoma City Thunder",10,264,26
+"Golden State Warriors","11/16/16",2016,4,2,23,"shot_yes","Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",9,188,46
+"Golden State Warriors","11/7/16",2016,3,2,49,"shot_no","Pullup Jump shot","3PT Field Goal",26,"New Orleans Pelicans",204,164,34
+"Golden State Warriors","12/7/16",2016,1,7,46,"shot_yes","Pullup Jump shot","2PT Field Goal",9,"Los Angeles Clippers",24,90,5
+"Golden State Warriors","1/8/17",2016,1,10,46,"shot_yes","Pullup Jump shot","2PT Field Goal",17,"Sacramento Kings",174,46,2
+"Golden State Warriors","11/9/16",2016,1,1,41,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",92,239,11
+"Golden State Warriors","1/2/17",2016,2,2,27,"shot_no","Pullup Jump shot","3PT Field Goal",26,"Denver Nuggets",115,237,22
+"Golden State Warriors","12/1/16",2016,4,7,50,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",-50,252,41
+"Golden State Warriors","1/8/17",2016,1,7,35,"shot_yes","Pullup Jump shot","2PT Field Goal",11,"Sacramento Kings",-66,90,5
+"Golden State Warriors","11/26/16",2016,3,6,26,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Minnesota Timberwolves",184,190,30
+"Golden State Warriors","2/23/17",2016,1,4,5,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Los Angeles Clippers",107,232,8
+"Golden State Warriors","2/2/17",2016,1,6,45,"shot_yes","Pullup Jump shot","2PT Field Goal",17,"Los Angeles Clippers",-68,160,6
+"Golden State Warriors","11/26/16",2016,2,0,1,"shot_yes","Pullup Jump shot","3PT Field Goal",28,"Minnesota Timberwolves",125,257,24
+"Golden State Warriors","2/2/17",2016,3,4,11,"shot_yes","Pullup Jump shot","2PT Field Goal",14,"Los Angeles Clippers",81,120,32
+"Golden State Warriors","10/28/16",2016,2,2,4,"shot_yes","Pullup Jump shot","2PT Field Goal",20,"New Orleans Pelicans",137,149,22
+"Golden State Warriors","11/13/16",2016,4,5,30,"shot_yes","Pullup Jump shot","3PT Field Goal",24,"Phoenix Suns",-238,41,43
+"Golden State Warriors","2/2/17",2016,2,10,32,"shot_yes","Pullup Jump shot","2PT Field Goal",19,"Los Angeles Clippers",91,173,14
+"Golden State Warriors","11/26/16",2016,1,6,6,"shot_yes","Pullup Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",0,159,6
+"Golden State Warriors","12/1/16",2016,3,5,50,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",199,165,31
+"Golden State Warriors","11/9/16",2016,1,0,43,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Dallas Mavericks",-197,188,12
+"Golden State Warriors","12/25/16",2016,4,9,35,"shot_yes","Pullup Jump shot","2PT Field Goal",7,"Cleveland Cavaliers",55,51,39
+"Golden State Warriors","12/25/16",2016,4,9,5,"shot_no","Pullup Jump shot","2PT Field Goal",13,"Cleveland Cavaliers",96,90,39
+"Golden State Warriors","12/8/16",2016,1,9,2,"shot_yes","Pullup Jump shot","2PT Field Goal",11,"Utah Jazz",51,105,3
+"Golden State Warriors","12/7/16",2016,3,1,3,"shot_no","Pullup Jump shot","2PT Field Goal",11,"Los Angeles Clippers",105,56,35
+"Golden State Warriors","2/27/17",2016,1,2,56,"shot_no","Pullup Jump shot","2PT Field Goal",15,"Philadelphia 76ers",-115,101,10
+"Golden State Warriors","1/20/17",2016,3,0,40,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",137,218,36
+"Golden State Warriors","1/29/17",2016,1,4,33,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Portland Trail Blazers",-76,242,8
+"Golden State Warriors","12/10/16",2016,3,9,6,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Memphis Grizzlies",145,232,27
+"Golden State Warriors","11/18/16",2016,1,5,29,"shot_yes","Pullup Jump shot","3PT Field Goal",24,"Boston Celtics",-88,232,7
+"Golden State Warriors","12/20/16",2016,2,11,17,"shot_yes","Pullup Jump shot","2PT Field Goal",14,"Utah Jazz",-70,131,13
+"Golden State Warriors","1/29/17",2016,3,2,1,"shot_no","Pullup Jump shot","2PT Field Goal",13,"Portland Trail Blazers",12,131,34
+"Golden State Warriors","1/20/17",2016,1,11,1,"shot_yes","Pullup Jump shot","2PT Field Goal",20,"Houston Rockets",87,183,1
+"Golden State Warriors","11/23/16",2016,2,2,1,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Los Angeles Lakers",140,237,22
+"Golden State Warriors","12/17/16",2016,3,6,25,"shot_yes","Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",94,154,30
+"Golden State Warriors","11/13/16",2016,1,10,55,"shot_yes","Pullup Jump shot","2PT Field Goal",15,"Phoenix Suns",-22,154,2
+"Golden State Warriors","12/17/16",2016,3,4,31,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Portland Trail Blazers",-122,234,32
+"Golden State Warriors","11/3/16",2016,2,11,10,"shot_yes","Putback Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,13
+"Golden State Warriors","11/1/16",2016,3,5,5,"shot_yes","Putback Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,31
+"Golden State Warriors","1/18/17",2016,3,1,41,"shot_yes","Putback Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,35
+"Golden State Warriors","1/28/17",2016,2,7,53,"shot_yes","Putback Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",2,8,17
+"Golden State Warriors","11/16/16",2016,3,8,31,"shot_no","Putback Layup Shot","2PT Field Goal",2,"Toronto Raptors",22,10,28
+"Golden State Warriors","12/8/16",2016,4,5,1,"shot_yes","Reverse Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,43
+"Golden State Warriors","10/28/16",2016,4,8,5,"shot_no","Reverse Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-25,3,40
+"Golden State Warriors","1/28/17",2016,1,3,57,"shot_yes","Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-14,11,9
+"Golden State Warriors","11/1/16",2016,3,9,11,"shot_yes","Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",14,-5,27
+"Golden State Warriors","10/25/16",2016,3,10,41,"shot_yes","Reverse Layup Shot","2PT Field Goal",2,"San Antonio Spurs",2,23,26
+"Golden State Warriors","11/19/16",2016,1,10,51,"shot_yes","Reverse Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,2,2
+"Golden State Warriors","12/3/16",2016,3,7,7,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,29
+"Golden State Warriors","1/16/17",2016,1,10,27,"shot_yes","Running Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",-6,13,2
+"Golden State Warriors","1/16/17",2016,2,1,43,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,23
+"Golden State Warriors","1/18/17",2016,2,1,45,"shot_no","Running Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,23
+"Golden State Warriors","11/3/16",2016,4,7,39,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,41
+"Golden State Warriors","2/15/17",2016,4,8,20,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,40
+"Golden State Warriors","12/7/16",2016,1,10,11,"shot_no","Running Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,2
+"Golden State Warriors","11/19/16",2016,3,5,58,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,31
+"Golden State Warriors","12/3/16",2016,1,9,11,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,3
+"Golden State Warriors","2/11/17",2016,2,0,4,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,24
+"Golden State Warriors","12/20/16",2016,1,7,53,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,5
+"Golden State Warriors","12/5/16",2016,1,0,45,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,12
+"Golden State Warriors","12/25/16",2016,2,5,6,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,19
+"Golden State Warriors","12/8/16",2016,4,2,43,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,46
+"Golden State Warriors","11/16/16",2016,3,10,30,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,26
+"Golden State Warriors","2/27/17",2016,3,10,0,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,26
+"Golden State Warriors","2/8/17",2016,4,5,4,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,43
+"Golden State Warriors","2/8/17",2016,3,6,25,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,30
+"Golden State Warriors","2/15/17",2016,3,6,58,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,30
+"Golden State Warriors","2/23/17",2016,3,4,14,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,32
+"Golden State Warriors","2/15/17",2016,1,6,52,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,6
+"Golden State Warriors","2/1/17",2016,2,2,21,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,22
+"Golden State Warriors","11/13/16",2016,2,10,16,"shot_yes","Running Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",12,13,14
+"Golden State Warriors","2/1/17",2016,2,0,38,"shot_yes","Running Finger Roll Layup Shot","2PT Field Goal",1,"Charlotte Hornets",4,11,24
+"Golden State Warriors","11/28/16",2016,4,4,30,"shot_yes","Running Finger Roll Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-1,11,44
+"Golden State Warriors","2/8/17",2016,1,5,52,"shot_yes","Running Finger Roll Layup Shot","2PT Field Goal",1,"Chicago Bulls",-16,11,7
+"Golden State Warriors","12/22/16",2016,3,5,47,"shot_yes","Running Finger Roll Layup Shot","2PT Field Goal",3,"Brooklyn Nets",30,11,31
+"Golden State Warriors","2/23/17",2016,3,7,25,"shot_yes","Running Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",32,273,29
+"Golden State Warriors","12/10/16",2016,2,10,20,"shot_yes","Running Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",1,247,14
+"Golden State Warriors","1/18/17",2016,2,8,5,"shot_yes","Running Jump Shot","3PT Field Goal",28,"Oklahoma City Thunder",-117,257,16
+"Golden State Warriors","1/16/17",2016,2,2,6,"shot_yes","Running Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",51,247,22
+"Golden State Warriors","12/23/16",2016,4,7,50,"shot_yes","Running Jump Shot","2PT Field Goal",15,"Detroit Pistons",-92,120,41
+"Golden State Warriors","12/1/16",2016,2,0,30,"shot_no","Running Jump Shot","2PT Field Goal",8,"Houston Rockets",-19,85,24
+"Golden State Warriors","11/16/16",2016,1,9,39,"shot_no","Running Jump Shot","2PT Field Goal",4,"Toronto Raptors",-45,21,3
+"Golden State Warriors","1/29/17",2016,3,10,41,"shot_yes","Running Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",42,11,26
+"Golden State Warriors","12/22/16",2016,4,8,48,"shot_no","Running Jump Shot","2PT Field Goal",4,"Brooklyn Nets",28,41,40
+"Golden State Warriors","12/7/16",2016,1,0,0,"shot_no","Running Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",32,267,12
+"Golden State Warriors","1/4/17",2016,1,2,25,"shot_yes","Running Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-201,154,10
+"Golden State Warriors","2/27/17",2016,3,2,16,"shot_yes","Running Jump Shot","2PT Field Goal",10,"Philadelphia 76ers",105,-5,34
+"Golden State Warriors","2/27/17",2016,3,10,51,"shot_no","Running Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-11,43,26
+"Golden State Warriors","10/30/16",2016,2,0,6,"shot_yes","Running Jump Shot","2PT Field Goal",3,"Phoenix Suns",9,33,24
+"Golden State Warriors","12/8/16",2016,1,0,53,"shot_no","Running Jump Shot","3PT Field Goal",24,"Utah Jazz",107,218,12
+"Golden State Warriors","2/1/17",2016,3,7,51,"shot_yes","Running Jump Shot","2PT Field Goal",4,"Charlotte Hornets",20,41,29
+"Golden State Warriors","12/25/16",2016,2,2,38,"shot_no","Running Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-43,56,22
+"Golden State Warriors","12/23/16",2016,1,6,22,"shot_yes","Running Jump Shot","2PT Field Goal",10,"Detroit Pistons",87,61,6
+"Golden State Warriors","11/28/16",2016,2,10,42,"shot_yes","Running Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-150,21,14
+"Golden State Warriors","11/10/16",2016,2,8,56,"shot_no","Running Jump Shot","2PT Field Goal",5,"Denver Nuggets",38,38,16
+"Golden State Warriors","12/1/16",2016,3,0,30,"shot_yes","Running Jump Shot","2PT Field Goal",8,"Houston Rockets",1,85,36
+"Golden State Warriors","12/28/16",2016,1,9,16,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Toronto Raptors",-1,16,3
+"Golden State Warriors","1/22/17",2016,1,3,38,"shot_no","Running Layup Shot","2PT Field Goal",2,"Orlando Magic",22,-1,9
+"Golden State Warriors","1/22/17",2016,3,7,59,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Orlando Magic",27,11,29
+"Golden State Warriors","12/15/16",2016,2,0,24,"shot_no","Running Layup Shot","2PT Field Goal",1,"New York Knicks",-9,13,24
+"Golden State Warriors","12/25/16",2016,1,11,17,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",9,-11,1
+"Golden State Warriors","11/26/16",2016,1,9,24,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-2,2,3
+"Golden State Warriors","12/28/16",2016,2,1,21,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Toronto Raptors",-1,0,23
+"Golden State Warriors","11/4/16",2016,3,6,53,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-5,-5,30
+"Golden State Warriors","1/8/17",2016,4,2,46,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Sacramento Kings",27,11,46
+"Golden State Warriors","1/4/17",2016,4,2,6,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-1,7,46
+"Golden State Warriors","12/8/16",2016,2,10,8,"shot_no","Running Layup Shot","2PT Field Goal",1,"Utah Jazz",14,3,14
+"Golden State Warriors","12/22/16",2016,4,7,49,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Brooklyn Nets",24,7,41
+"Golden State Warriors","12/22/16",2016,3,9,56,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-14,-1,27
+"Golden State Warriors","12/22/16",2016,2,7,5,"shot_no","Running Layup Shot","2PT Field Goal",1,"Brooklyn Nets",17,2,17
+"Golden State Warriors","12/10/16",2016,1,1,28,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,-1,11
+"Golden State Warriors","2/8/17",2016,3,2,39,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Chicago Bulls",-1,11,34
+"Golden State Warriors","12/22/16",2016,1,6,44,"shot_no","Running Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-1,11,6
+"Golden State Warriors","11/1/16",2016,4,11,3,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-19,16,37
+"Golden State Warriors","1/22/17",2016,3,3,56,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Orlando Magic",4,2,33
+"Golden State Warriors","11/1/16",2016,4,10,41,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-1,0,38
+"Golden State Warriors","1/29/17",2016,1,8,9,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,3,4
+"Golden State Warriors","1/25/17",2016,4,8,32,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Charlotte Hornets",9,2,40
+"Golden State Warriors","2/11/17",2016,2,2,54,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",6,-1,22
+"Golden State Warriors","1/6/17",2016,2,11,8,"shot_no","Running Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",17,21,13
+"Golden State Warriors","2/13/17",2016,1,6,0,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Denver Nuggets",14,16,6
+"Golden State Warriors","2/11/17",2016,3,1,45,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",17,2,35
+"Golden State Warriors","1/29/17",2016,2,5,30,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",10,21,19
+"Golden State Warriors","1/22/17",2016,1,5,6,"shot_no","Running Layup Shot","2PT Field Goal",1,"Orlando Magic",14,11,7
+"Golden State Warriors","11/7/16",2016,1,0,25,"shot_yes","Running Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",4,11,12
+"Golden State Warriors","1/22/17",2016,2,1,42,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Orlando Magic",24,-1,23
+"Golden State Warriors","1/6/17",2016,2,2,10,"shot_yes","Running Pull-Up Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",-2,110,22
+"Golden State Warriors","11/16/16",2016,1,0,0,"shot_yes","Running Pull-Up Jump Shot","3PT Field Goal",26,"Toronto Raptors",-96,242,12
+"Golden State Warriors","1/29/17",2016,1,0,0,"shot_no","Running Pull-Up Jump Shot","3PT Field Goal",29,"Portland Trail Blazers",20,298,12
+"Golden State Warriors","11/16/16",2016,1,11,3,"shot_yes","Running Pull-Up Jump Shot","2PT Field Goal",18,"Toronto Raptors",53,178,1
+"Golden State Warriors","2/2/17",2016,2,6,45,"shot_no","Running Pull-Up Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",99,247,18
+"Golden State Warriors","1/29/17",2016,2,5,11,"shot_no","Running Pull-Up Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-109,229,19
+"Golden State Warriors","11/25/16",2016,1,5,8,"shot_yes","Running Pull-Up Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",65,238,7
+"Golden State Warriors","11/16/16",2016,3,9,27,"shot_no","Running Pull-Up Jump Shot","2PT Field Goal",13,"Toronto Raptors",9,131,27
+"Golden State Warriors","12/28/16",2016,1,6,57,"shot_no","Running Reverse Layup Shot","2PT Field Goal",0,"Toronto Raptors",-6,-1,6
+"Golden State Warriors","11/21/16",2016,3,8,12,"shot_no","Running Reverse Layup Shot","2PT Field Goal",1,"Indiana Pacers",14,7,28
+"Golden State Warriors","11/25/16",2016,3,2,22,"shot_no","Step Back Jump shot","2PT Field Goal",14,"Los Angeles Lakers",112,86,34
+"Golden State Warriors","12/11/16",2016,4,3,51,"shot_no","Step Back Jump shot","2PT Field Goal",17,"Minnesota Timberwolves",-7,178,45
+"Golden State Warriors","2/27/17",2016,2,6,24,"shot_no","Step Back Jump shot","2PT Field Goal",17,"Philadelphia 76ers",-171,-39,18
+"Golden State Warriors","12/22/16",2016,3,11,19,"shot_no","Step Back Jump shot","3PT Field Goal",24,"Brooklyn Nets",177,174,25
+"Golden State Warriors","2/13/17",2016,2,8,3,"shot_no","Step Back Jump shot","3PT Field Goal",25,"Denver Nuggets",163,190,16
+"Golden State Warriors","1/6/17",2016,1,0,0,"shot_yes","Step Back Jump shot","2PT Field Goal",22,"Memphis Grizzlies",-20,228,12
+"Golden State Warriors","12/22/16",2016,4,5,57,"shot_no","Step Back Jump shot","3PT Field Goal",24,"Brooklyn Nets",99,224,43
+"Golden State Warriors","11/18/16",2016,2,10,35,"shot_yes","Step Back Jump shot","2PT Field Goal",16,"Boston Celtics",105,124,14
+"Golden State Warriors","2/27/17",2016,3,2,56,"shot_no","Step Back Jump shot","2PT Field Goal",15,"Philadelphia 76ers",-153,7,34
+"Golden State Warriors","12/3/16",2016,2,11,43,"shot_yes","Step Back Jump shot","2PT Field Goal",17,"Phoenix Suns",-173,26,13
+"Golden State Warriors","11/16/16",2016,2,0,2,"shot_no","Step Back Jump shot","2PT Field Goal",19,"Toronto Raptors",132,144,24
+"Golden State Warriors","11/26/16",2016,2,8,47,"shot_no","Step Back Jump shot","2PT Field Goal",13,"Minnesota Timberwolves",-55,120,16
+"Golden State Warriors","11/25/16",2016,1,7,53,"shot_no","Step Back Jump shot","2PT Field Goal",12,"Los Angeles Lakers",-104,75,5
+"Golden State Warriors","11/9/16",2016,4,4,20,"shot_yes","Step Back Jump shot","2PT Field Goal",17,"Dallas Mavericks",-171,28,44
+"Golden State Warriors","11/4/16",2016,1,7,7,"shot_no","Step Back Jump shot","2PT Field Goal",19,"Los Angeles Lakers",-180,70,5
+"Golden State Warriors","11/3/16",2016,1,11,19,"shot_yes","Step Back Jump shot","3PT Field Goal",27,"Oklahoma City Thunder",-71,267,1
+"Golden State Warriors","10/25/16",2016,1,6,59,"shot_yes","Step Back Jump shot","2PT Field Goal",16,"San Antonio Spurs",-163,47,6
+"Golden State Warriors","2/11/17",2016,3,4,55,"shot_no","Step Back Jump shot","3PT Field Goal",23,"Oklahoma City Thunder",230,-16,32
+"Golden State Warriors","12/28/16",2016,4,1,16,"shot_no","Step Back Jump shot","2PT Field Goal",17,"Toronto Raptors",-9,175,47
+"Golden State Warriors","1/16/17",2016,2,4,17,"shot_yes","Tip Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,20
+"Golden State Warriors","11/10/16",2016,2,1,33,"shot_yes","Tip Layup Shot","2PT Field Goal",1,"Denver Nuggets",6,11,23
+"Golden State Warriors","2/11/17",2016,2,5,35,"shot_yes","Tip Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-12,-1,19
+"Golden State Warriors","2/1/17",2016,1,1,43,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Charlotte Hornets",5,10,11
+"Golden State Warriors","1/29/17",2016,4,7,16,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",15,7,41
+"Golden State Warriors","12/5/16",2016,3,5,34,"shot_yes","Tip Layup Shot","2PT Field Goal",1,"Indiana Pacers",6,13,31
+"Golden State Warriors","1/6/17",2016,1,4,56,"shot_yes","Turnaround Bank shot","2PT Field Goal",4,"Memphis Grizzlies",-30,28,8
+"Golden State Warriors","1/28/17",2016,2,2,14,"shot_yes","Turnaround Bank shot","2PT Field Goal",8,"Los Angeles Clippers",56,67,22
+"Golden State Warriors","12/5/16",2016,2,9,16,"shot_no","Turnaround Bank shot","2PT Field Goal",6,"Indiana Pacers",-19,61,15
+"Golden State Warriors","2/1/17",2016,4,7,10,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",11,"Charlotte Hornets",-71,85,41
+"Golden State Warriors","1/16/17",2016,3,8,28,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",16,"Cleveland Cavaliers",-101,134,28
+"Golden State Warriors","12/15/16",2016,4,10,24,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",12,"New York Knicks",51,111,38
+"Golden State Warriors","11/3/16",2016,1,2,42,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",8,"Oklahoma City Thunder",-29,80,10
+"Golden State Warriors","11/21/16",2016,1,4,41,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",16,"Indiana Pacers",-163,-5,8
+"Golden State Warriors","11/3/16",2016,1,7,4,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",18,"Oklahoma City Thunder",145,115,5
+"Golden State Warriors","12/15/16",2016,4,9,48,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",11,"New York Knicks",20,115,39
+"Golden State Warriors","11/13/16",2016,4,11,35,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",15,"Phoenix Suns",133,85,37
+"Golden State Warriors","12/5/16",2016,1,11,20,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",14,"Indiana Pacers",114,85,1
+"Golden State Warriors","10/25/16",2016,1,6,26,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",16,"San Antonio Spurs",163,41,6
+"Golden State Warriors","10/25/16",2016,3,6,49,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",6,"San Antonio Spurs",63,26,30
+"Golden State Warriors","10/25/16",2016,1,10,55,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",14,"San Antonio Spurs",-6,146,2
+"Golden State Warriors","11/16/16",2016,2,8,22,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",9,"Toronto Raptors",33,90,16
+"Golden State Warriors","1/2/17",2016,1,1,7,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",9,"Denver Nuggets",48,80,11
+"Golden State Warriors","2/15/17",2016,4,10,18,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",17,"Sacramento Kings",133,121,38
+"Golden State Warriors","2/8/17",2016,3,6,47,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",10,"Chicago Bulls",-52,87,30
+"Golden State Warriors","2/8/17",2016,1,3,53,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",15,"Chicago Bulls",146,41,9
+"Golden State Warriors","2/11/17",2016,1,7,7,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",19,"Oklahoma City Thunder",194,36,5
+"Golden State Warriors","12/15/16",2016,1,9,51,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",8,"New York Knicks",74,31,3
+"Golden State Warriors","12/8/16",2016,2,8,43,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",14,"Utah Jazz",-147,2,16
+"Golden State Warriors","10/30/16",2016,3,6,26,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",15,"Phoenix Suns",-153,7,30
+"Golden State Warriors","1/16/17",2016,3,1,48,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",18,"Cleveland Cavaliers",164,85,35
+"Golden State Warriors","12/28/16",2016,4,11,45,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",10,"Toronto Raptors",97,51,37
+"Golden State Warriors","11/9/16",2016,1,8,49,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",13,"Dallas Mavericks",-127,31,4
+"Golden State Warriors","2/13/17",2016,3,6,28,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",4,"Denver Nuggets",46,7,30
+"Golden State Warriors","11/7/16",2016,2,11,28,"shot_yes","Turnaround Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",130,38,13
+"Golden State Warriors","12/7/16",2016,4,11,44,"shot_yes","Turnaround Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",55,100,37
+"Golden State Warriors","1/20/17",2016,4,6,23,"shot_yes","Turnaround Jump Shot","2PT Field Goal",17,"Houston Rockets",-178,21,42
+"Golden State Warriors","12/28/16",2016,4,0,59,"shot_no","Turnaround Jump Shot","2PT Field Goal",12,"Toronto Raptors",-35,115,48
+"Golden State Warriors","11/26/16",2016,2,0,36,"shot_yes","Turnaround Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",15,61,24
+"Golden State Warriors","11/3/16",2016,1,2,8,"shot_yes","Turnaround Jump Shot","2PT Field Goal",8,"Oklahoma City Thunder",-73,41,10
+"Golden State Warriors","12/13/16",2016,3,4,52,"shot_yes","Turnaround Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",151,41,32
+"Golden State Warriors","1/22/17",2016,2,5,22,"shot_no","Turnaround Jump Shot","2PT Field Goal",12,"Orlando Magic",128,11,19
+"Golden State Warriors","12/11/16",2016,2,10,10,"shot_no","Turnaround Jump Shot","2PT Field Goal",9,"Minnesota Timberwolves",-60,70,14
+"Golden State Warriors","1/20/17",2016,1,6,18,"shot_yes","Turnaround Jump Shot","2PT Field Goal",10,"Houston Rockets",-99,43,6
+"Golden State Warriors","2/11/17",2016,1,10,44,"shot_no","Turnaround Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",-76,82,2
+"Golden State Warriors","1/29/17",2016,1,5,32,"shot_no","Turnaround Jump Shot","2PT Field Goal",8,"Portland Trail Blazers",-81,11,7
+"Golden State Warriors","11/7/16",2016,4,9,26,"shot_yes","Turnaround Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",155,51,39
+"Golden State Warriors","12/7/16",2016,3,8,20,"shot_no","Turnaround Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-92,144,28
+"Golden State Warriors","11/1/16",2016,2,0,30,"shot_yes","Turnaround Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",4,141,24
+"Golden State Warriors","2/2/17",2016,1,5,18,"shot_no","Turnaround Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",-6,72,7
+"Golden State Warriors","1/29/17",2016,1,3,22,"shot_yes","Turnaround Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",166,90,9

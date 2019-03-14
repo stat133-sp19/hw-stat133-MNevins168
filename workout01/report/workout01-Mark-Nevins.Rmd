@@ -1,0 +1,64 @@
+---
+title: "Workout 1"
+author: "MNevins"
+date: "March 10, 2019"
+output: github_document
+---
+
+```{r echo = FALSE}
+library(readr)
+library(dplyr, warn.conflicts = FALSE)
+library(knitr)
+shotomnidata <- read_csv('../data/shots-data.csv', col_names = TRUE, col_types = cols(
+  team_name = col_character(),
+  game_date = col_character(),
+  season = col_double(),
+  period = col_double(),
+  minutes_remaining = col_double(),
+  seconds_remaining = col_double(),
+  shot_made_flag = col_character(),
+  action_type = col_character(),
+  shot_type = col_character(),
+  shot_distance = col_double(),
+  opponent = col_character(),
+  x = col_double(),
+  y = col_double(),
+  minute = col_double(),
+  player = col_character()
+))
+options(digits = 3)
+twotable <- kable(arrange(summarise(group_by(shotomnidata, player), total_twopt = sum(shotomnidata == player & shotomnidata$shot_type == '2PT Field Goal'), madetwo = sum(shotomnidata == player & shotomnidata$shot_made_flag == 'shot_yes' & shotomnidata$shot_type == '2PT Field Goal'), perctwomade = madetwo/total_twopt), desc(perctwomade)))
+
+threetable <- kable(arrange(summarise(group_by(shotomnidata, player), total_threept = sum(shotomnidata == player & shotomnidata$shot_type == '3PT Field Goal'), madethree = sum(shotomnidata == player & shotomnidata$shot_made_flag == 'shot_yes' & shotomnidata$shot_type == '3PT Field Goal'), percthreemade = madethree/total_threept), desc(percthreemade)))
+
+totaltable <- kable(arrange(summarise(group_by(shotomnidata, player), total = sum(shotomnidata == player), made = sum(shotomnidata == player & shotomnidata$shot_made_flag == 'shot_yes'), perc_made = made/total), desc(perc_made)))
+```
+
+<center> <h1> Golden State Warriors and Their Shooting Statistics </h1> </center>
+<center> <h3> A report by Mark Nevins </h3> </center>
+
+#### Motivation
+I was contacted by a prestigious sports media company, Stat-133-Ltd, to write up a piece analyzing several players from the GSW and their stats. The statistics show not only the indiviudal player's strengths, and thus why the GSW is so good right now, but also something.
+
+#### Background
+The Golden State Warriors are one of the most valuable basketball teams of all time, winning three of the last four NBA championships. As such, statistical analysis is an incredibly important tool to discover why this team is so great, especially in regards to the players on the team. In this report we look at the Effective Shooting percentages of Andre Iguodala, Draymond Green, Kevin Durant, Klay Thompson, and Stephen Curry to see their individual strengths and what that means for the team.
+
+#### Data
+Here we can see the effective shot percentages by player for the given members of the Golden State Warriors analyzed: `r totaltable`. This can be broken down into the two- and three-point shots and their effective percentages. `r twotable` for the two point shots and `r threetable` for the three point shots. Additionally, here is a graph of every shot attempted in the 2016 season for the five players, and whether or not it was a success. 
+```{r out.width='80%', echo = FALSE, fig.align='center'}
+knitr::include_graphics('../images/gsw-shot-charts.png')
+```
+
+#### Analysis
+As we can see from the shot tables, even though Andre Iguodala attempts the least amount of shots by far, he has the second highest successful shot percentage and the highest two-point shot success percentage. This makes sense, considering Andre Iguodala is a Small Forward on the Golden State Warriors. The other player with a notably small amount of total shots attempted, Draymond Green, actually has the lowest shot made percentage in every category! This could be attributed to his position as a Power Forward, which apparently spends part of their time defending.
+In general, the percentage of successful shots is much lower for the three-point shots when compared to the two-point shots, which is obvious due to the fact that three-point shots must be done much further back than two-point shots. However, for every player except Draymond Green it seems that there is no correlation between where in the two-point zone the shot was attempted and the chance of the shot making it. Draymond Green is the only outlier here where most two-point shots are considered a failure unless it was attempted directly under the hoop, suggeseting a possible weakness in shooting.
+
+#### Conclusions
+
+While this piece has ended up apparently critical of Draymond Green, I do not believe that to be the case. His statistics might look bad, but that is simply due to comparing him to other members of what could be considered to be the best basketball team of our time. When compared to other players, especially in his position, his data might look average, or even better than most other players. Additionally, one issue with this analysis is that each shot's external conditions were not displayed in the graphs, such as what team they were against and how long they had to make the shot. Some teams are better than others, and so making a shot against better teams turns out to be much harder, lowering your shot percentage even if you can always land the shot against easier teams. Another issue with this statistical analysis could be the fact I have no idea about any details about basketball, and so most of these conclusions are purely data-based and might not have any basis in reality.
+
+#### References
+
+Several Wikipedia pages on basketball so I think I know what this data means.
+
+Data retrieved from https://github.com/ucb-stat133/stat133-hws/tree/master/data.

@@ -1,0 +1,34 @@
+---
+title: "make-shot-charts-script"
+author: "MNevins"
+date: "March 11, 2019"
+output: html_document
+---
+Title: Shot Chart Creator
+
+Description: Takes the shot data and creates graphs
+
+Input: Shot data manipulated from make-shots-data-script.Rmd
+
+Output: Multiple graphs of each player??
+
+```{r}
+library(jpeg)
+library(grid)
+library(ggplot2)
+court_file<- "../images/nba-court.jpg"
+court_image <- rasterGrob(readJPEG(court_file), width = unit(1,"npc"), height=unit(1,"npc"))
+fullnames <- c("Andre Iguodala", "Draymond Green", "Kevin Durant", "Klay Thompson", "Stephen Curry")
+for (name in c("andre-iguodala","draymond-green","kevin-durant","klay-thompson","stephen-curry")) {
+  dataname <- read.csv(paste0('../data/',name,'.csv', sep = ''), stringsAsFactors = FALSE)
+  datagraph <- ggplot(data = dataname) + annotation_custom(court_image,-250,250,-50,420) + 
+  geom_point(aes(x=x,y=y,color=shot_made_flag)) + ylim(-50,420) + ggtitle(paste0("Shot Chart: ", fullnames[which(c("andre-iguodala","draymond-green","kevin-durant","klay-thompson","stephen-curry") == name)]," (2016 season)",sep="")) + theme_minimal()
+  ggsave(paste0(name,"-shot-chart.pdf",sep = ""), width = 6.5, height = 5, path = "../images")
+}
+```
+```{r altogetherplots}
+  omnidata <- read.csv('../data/shots-data.csv', stringsAsFactors = FALSE)
+  omnigraph <- ggplot(data = omnidata) + annotation_custom(court_image,-250,250,-50,420) +  geom_point(aes(x=x,y=y,color=shot_made_flag)) + ylim(-50,420) + facet_wrap(~ player)+ ggtitle("Shot Charts: GSW (2016 Season)") + theme_minimal() + theme(legend.position = "top", legend.title = element_blank())
+  ggsave("gsw-shot-charts.pdf", width = 8, height = 7, path = "../images")
+  ggsave("gsw-shot-charts.png", width = 8, height = 7, path = "../images")
+```

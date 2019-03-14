@@ -1,0 +1,52 @@
+---
+title: "make-shots-data-script"
+author: "MNevins"
+date: "March 10, 2019"
+output: html_document
+---
+Title: Shot Data Transformer
+
+Description: Parses the shot data into a readable format for visualization.
+
+Input: Data of the five basketball players
+
+Output: Shot data to be visualized
+
+```{r}
+library(dplyr, warn.conflicts = FALSE)
+library(ggplot2)
+library(readr)
+shots_data <- data.frame()
+for (name in c("andre-iguodala","draymond-green","kevin-durant","klay-thompson","stephen-curry")) {
+  i <- read_csv(paste0('../data/',name,'.csv', sep = ''), col_names = TRUE, col_types = cols(
+  team_name = col_character(),
+  game_date = col_character(),
+  season = col_double(),
+  period = col_double(),
+  minutes_remaining = col_double(),
+  seconds_remaining = col_double(),
+  shot_made_flag = col_character(),
+  action_type = col_character(),
+  shot_type = col_character(),
+  shot_distance = col_double(),
+  opponent = col_character(),
+  x = col_double(),
+  y = col_double()
+  ))
+  i$shot_made_flag[i$shot_made_flag == "y"] <- "shot_yes"
+  i$shot_made_flag[i$shot_made_flag == "n"] <- "shot_no"
+  i <- mutate(i, "minute" = (12 * period - minutes_remaining))
+  shots_data <- rbind(shots_data, mutate(i, "player" = name))
+  write.table(i,paste0('../data/',name,'.csv', sep = ''), sep = ",", append = FALSE, row.names = FALSE)
+  sink(paste0('../output/',name,'-summary.txt', sep = ''), append = FALSE)
+  print(summary(i))
+  sink()
+}
+
+{
+write.table(shots_data,'../data/shots-data.csv', sep = ",", append = FALSE, row.names = FALSE)
+sink('../output/shots-data-summary.txt', append = FALSE)
+print(summary(shots_data))
+sink()
+}
+```
