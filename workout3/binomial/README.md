@@ -2,24 +2,28 @@
 
 binomial is a package that has a few functions relating to the binomial distribution.
 
-*bin_choose() does "n choose k"
-*bin_variable() creates an object of class binvar which holds the amount of trials and the probability of success
-*various bin_ summary statistics, which are mean, variance, mode, skewness, and kurtosis
-*summary() works on binvar objects to list the summary statistics all at once
+* bin_choose() does "n choose k"
+* bin_variable() creates an object of class binvar which holds the amount of trials and the probability of success
+* various bin_ summary statistics, which are mean, variance, mode, skewness, and kurtosis
+* summary() works on binvar objects to list the summary statistics all at once
 
-*bin_probability() calculates the specific probability of a certain number of successes in a number of trials with a probability of success
-*bin_distribution() creates an object with class bindis which holds the binomial distribution for the given trials and probability
-*bin_cumulative() creates an object with class bincum which holds the binomial distribution, and the cumulative probability
-*both bin_distribution and bin_cumulative can be plotted with plot()
+* bin_probability() calculates the specific probability of a certain number of successes in a number of trials with a probability of success
+* bin_distribution() creates an object with class bindis which holds the binomial distribution for the given trials and probability
+* bin_cumulative() creates an object with class bincum which holds the binomial distribution, and the cumulative probability
+* both bin_distribution and bin_cumulative can be plotted with plot()
 
 
 ## Installation
 ***
 
 install this package with "devtools", and then do:
+
 devtools::install_github("stat133-sp19/hw-stat133-MNevins168/tree/master/workout3/binomial")
+
 or 
+
 devtools::install_github("stat133-sp19/hw-stat133-MNevins168/tree/master/workout3/binomial", build_vignettes = TRUE)
+
 depending on if vignettes are desired
 
 ***
