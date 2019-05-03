@@ -1,0 +1,84 @@
+---
+title: "Introduction to binomial"
+author: "Mark Nevins"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, echo = FALSE, message = FALSE}
+knitr::opts_chunk$set(collapse = TRUE,comment = "#>")
+library(binomial)
+```
+
+## Binomial Distribution
+The package `"binomial"` is a basic package that calculates the probabilities and various statistics about a binomial distribution with
+the given parameters after checking that the parameters are valid, and displays both the distribution and cumulative distribution of
+the chosen binomial distribution.
+
+## Combination function
+
+The most basic thing in this package is a rudimentary combination function, `bin_choose(n,k)`, which calculates n choose k if the inputs are valid.
+
+```{r}
+bin_choose(5,2)
+```
+
+## Create a binomial variable
+
+The most straightforward thing we can do is create an object of type `"binvar"` that holds the number of trials and probability of our
+Binomial Distribution using `bin_variable(trials, prob)`:
+
+```{r}
+binomial <- bin_variable(5,0.5)
+binomial
+```
+
+`bin_variable()` is by default set to 1 trial with probability 1.
+
+## Find the summary measures
+
+With this `"binvar"` object, we can easily see important statistical calculations of the distribution by invoking the method `summary()` on it.
+
+```{r}
+summary(binomial)
+```
+
+We can also find each specific measure with `"bin_"` + `"measure"`, but the trial and probability must be inputted manually.
+
+```{r}
+bin_mean(5,0.5)
+bin_variance(5,0.5)
+bin_mode(5,0.5)
+bin_skewness(5,0.5)
+bin_kurtosis(5,0.5)
+```
+
+
+## Find a specific probability
+
+Using `bin_probability(success, trials, prob)`, we can calculate the probability of a certain amount of successes given the amount of trials and the probability of success. The success variable can be a vector.
+
+```{r}
+bin_probability(2,5,0.5)
+bin_probability(0:2,5,0.5)
+```
+
+## Plot distributions
+
+Using `bin_distribution(trials, prob)` in combination with `plot()` allows us to plot the distribution.
+
+```{r}
+plotdist <- bin_distribution(5,0.5)
+plot(plotdist)
+```
+
+The cumulative distribution can also be plotted, this time using `bin_cumulative(trials, prob)` in conjunction with `plot()`.
+
+```{r}
+plotcum <- bin_cumulative(5,0.5)
+plot(plotcum)
+```
